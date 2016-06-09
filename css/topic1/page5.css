@@ -1,0 +1,68 @@
+.mainBoard {
+    background-image: url("../../img/slide_11/slide_11.png");
+    width: 1012px;
+    height: 657px;
+    margin: 0px auto;
+    position: relative;
+}
+.panelLeft {
+    height: 440px;
+    width: 511px;
+}
+.floatLeft {
+    float: left;
+}
+.panelRight {
+    height: 446px;
+    width: 443px;
+
+}
+.pdf_img {
+    margin-top: 10px;
+}
+.para1, .para2 {
+    margin-bottom: 10px;
+}
+.pageNameContainer{
+
+}
+ul{
+    margin-left:-28px;
+}
+
+ul li{
+    margin-bottom: 15px;
+}
+.para1{
+    margin-top: 0px;
+}
+.img1 {
+    margin-left: 54px;
+    margin-top: -20px;
+    cursor:default;
+}
+.para4 {
+    width: 420px;
+    margin-top:10px;
+}
+/*.static_img {
+    background-image: url("../../img/GUI/static.png");
+    background-repeat: no-repeat;
+    height: 501px;
+    margin-left: 0px;
+    width: 1001px;
+        margin-top: 0px;
+}*/
+/* .overview_icon{
+        background-image: url("../../img/SCT/static/overview_icon.png");
+    background-repeat: no-repeat;
+    height: 352px;
+    margin-left: 23px;
+    width: 293px;
+        margin-top: 83px;
+} */
+
+a {
+    color: #1A89D6;
+    padding-top: 49px;
+}

@@ -1,0 +1,63 @@
+.mainBoard {
+    /*background-image: url("../../img/slide_43/slide_43.png");*/
+    width: 1012px;
+    height: 657px;
+    margin: 0px auto;
+    position: relative;
+}
+.panelLeft {
+    height: 57px;
+width: 919px;
+}
+.floatLeft {
+    float: left;
+}
+.panelRight {
+    height: 446px;
+width: 443px;
+	
+}
+.pageNameContainer{
+	
+}
+ul{
+	margin-left:-28px;
+}
+
+ul li{
+	margin-bottom: 15px;
+}
+.para2{
+	margin-top: 15px;
+}
+.img1 {
+    margin-left: 100px;
+margin-top: 3px;
+    cursor:default;
+}
+.beginAssessment{
+    margin-top: 10px;
+}
+.panelRight {
+    background-image: url("../../img/assessment_start_pg/start_assessment.png");
+    background-repeat: no-repeat;
+    height: 275px;
+    width: 811px;
+    margin-top: 60px;
+}
+.leftOption {
+    width: 242px;
+margin-top: 17px;
+padding: 40px 0px 0px 90px;
+}
+.rightOption {
+    margin-top: -56px;
+}
+/* .overview_icon{
+	background-image: url("../../img/SCT/static/overview_icon.png");
+    background-repeat: no-repeat;
+    height: 352px;
+    margin-left: 23px;
+    width: 293px;
+	margin-top: 83px;
+} */

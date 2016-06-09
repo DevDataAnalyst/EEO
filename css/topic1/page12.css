@@ -1,0 +1,215 @@
+.mainBoard {
+    background-image: url("../../img/slide_23/slide_23.png");
+    width: 1012px;
+    height: 657px;
+    margin: 0px auto;
+    position: relative;
+}
+.mainLayout{
+	width: 901px;
+	height: 513px;
+}
+.upparLayout{
+	width: 906px;
+    height: 110px;
+}
+ul {
+    padding-left: 22px;
+    margin-top: 0px;
+}
+.para3{
+  margin-top: 11px;
+}
+.para1 {
+    width: 675px;
+}
+.lowerLayout{
+	width: 945px;
+	height: 300px;
+	
+}
+.panelLeft {
+    width: 945px;
+height: 300px;
+	/* margin-left: 35px; */
+}
+.floatLeft {
+    float: left;
+}
+.panelRight {
+    height: 248px;
+    margin-left: 0px;
+    width: 500px;
+}
+.pageNameContainer{
+	
+}
+.para2{
+	margin-top: 10px;
+        width:455px;
+	
+}
+.primary_en,.third_en,.primary_dis,.third_dis {
+    margin-top: 30px;
+    margin-left: 60px;
+}
+.secondary_en,.secondary_dis{
+    margin-top: 30px;
+    margin-left: 45px;
+}
+.primary_dis {}
+.primary_en {}
+.primary_en:hover{
+	 /* background-image: url("../../img/SCT/Slide_43/slide_43_btn_1_O.png"); */
+}
+.secondary_dis {}
+.secondary_en {}
+.secondary_en:hover{
+	/* background-image: url("../../img/SCT/Slide_43/slide_43_btn_2_O.png"); */
+}
+.third_dis {}
+.third_en {}
+.third_en:hover{
+	/* background-image: url("../../img/SCT/Slide_43/slide_43_btn_3_O.png"); */
+}
+.popUpPara4,.popUpPara5,.popUpPara6 {
+        margin-top: 10px;
+    width: 814px;
+}
+.popUpPara1{
+        margin-top: 15px;
+    width: 500px;
+}
+.popUpPara2{
+        margin-top: 10px;
+    width: 500px;
+}
+.popUp2 .popUpPara3 {
+    width: 790px;
+}
+/*.popUpPara4 {
+    margin-top: 18px;
+    margin-bottom: 7px;
+}*/
+/*.popUpPara3{
+	margin-top: 10px;
+}*/
+.popUp{
+	//background-image: url("../../img/SCT/Quiz/popup_patch.png");
+	height:583px;
+	width:1012px;
+	background-repeat:no-repeat;
+	position:absolute;
+	left:0px;
+	top:0px;
+	z-index: 2;
+}
+.popUp1 .popUpBg{
+	background-image: url("../../img/slide_23/slide_23_pop_1.png");
+	height:378px;
+	width:613px;
+	background-repeat:no-repeat;
+	margin-top: 202px;
+        margin-left: 360px;
+}
+.popUp2 .popUpBg{
+	background-image: url("../../img/slide_23/slide_23_pop_2.png");
+	height: 467px;
+width: 894px;
+background-repeat: no-repeat;
+margin-top: 100px;
+margin-left: 49px;
+}
+/*.popUp2 .popUpBg{
+	background-image: url("../../img/SCT/Quiz/feedbacck_small/quiz_feed_pop_incorrect.png");
+	height:215px;
+	width:444px;
+	background-repeat:no-repeat;
+	margin: 224px auto 0px;
+}
+.popUp3 .popUpBg{
+	background-image: url("../../img/SCT/Quiz/feedbacck_small/quiz_feed_pop_tryagain.png");
+	height: 175px;
+    width: 363px;
+    background-repeat: no-repeat;
+    margin: 224px auto 0px;
+}*/
+.popUp1 .popUpBody{
+	width: 568px;
+        height: 340px;
+        padding: 30px 0px 0px 46px;
+}
+.popUp2 .popUpBody{
+	width: 837px;
+height: 418px;
+padding: 23px 0px 0px 46px;
+        
+}
+.popUpContent{
+    
+}
+/*.popUp3 .popUpBody {
+    width: 341px;
+    height: 288px;
+    padding: 6px 0px 0px 20px;
+}*/
+.popUpClose{
+cursor: pointer;
+margin-right: 15px;
+	/*width: auto;
+	height: auto;
+	margin: 0px 21px 0px 0px;
+	cursor:pointer;*/
+}
+.popUpClose:hover{
+	//background-image: url("../../img/common/btn_exit_Yellow.png");	
+}
+.popUpHeader{
+	height:39px;
+	font-size:18px;
+	font-weight:bold;
+	color:#fff;
+	width:85px;
+	cursor:default;
+}
+
+.primarypara1,.secondarypara2,.thirdpara3{
+margin-left: 37px;
+padding-top: 13px;
+}
+.button{
+        line-height: 54px;
+        font-size: 16px;
+        color:black;
+        font-weight:bold;
+        text-align: center;
+        height: 54px;
+        width: 238px;
+        background-color:#72cdf4;
+        margin-top: 25px;
+}
+
+.btnNameDiv1,.btnNameDiv2{
+    margin-left: -443px;
+    margin-top: 15px;
+    cursor:pointer;
+	width:404px;
+}
+.btnNameDiv3
+{
+    margin-left: -211px;
+    margin-top: 15px;
+    cursor: pointer;
+    width: 211px;
+}
+
+.closeDiv{
+ margin-right: -57px;
+/*  margin-top: 15px;  */
+ cursor: pointer; 
+}
+.HeaderDiv{
+margin-left: -92px;
+/* margin-top: 15px; */ 
+/* cursor: pointer; */
+}

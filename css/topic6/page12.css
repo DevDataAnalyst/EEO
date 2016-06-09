@@ -1,0 +1,109 @@
+
+.panelLeft {
+    height: 353px;
+	width: 437px;
+	margin-right: 43px;
+}
+.floatLeft {
+    float: left;
+}
+.panelRight {
+    background-image: url("../../img/static_slide_img_09.png");
+    background-repeat: no-repeat;
+    height: 581px;
+    margin-left: 0px;
+    width: 451px;
+	margin-top: -80px;
+}
+.pageNameContainer{
+	
+}
+ul{
+	margin-left:-28px;
+}
+
+ul li{
+	margin-bottom: 15px;
+}
+#result1{
+	font-size:24px;
+	color:#0e6573;
+	margin-left: 455px;
+}
+#result2{
+	font-size:24px;
+	color:#0e6573;
+	margin-left: 455px;
+}
+.tryAgain,.reVisit{
+	margin-top:10px;
+}
+.certificate{
+	margin-top:15px;
+}
+.tryAgain:hover{
+	
+}
+.cross_btn{
+	height:28px;
+	width:34px;
+	background-image: url("../../img/SCT/congradulation/congradulations_exit_btn_N.png");
+	cursor:pointer;
+	margin-left: 305px;
+	margin-top: 18px;
+	
+}
+.cross_btn:hover{
+	background-image: url("../../img/SCT/congradulation/congradulations_exit_btn_O.png");
+}
+.passed,.failed {
+    background-image: url("../../img/assessment_start_pg/start_assessment.png");
+    background-repeat: no-repeat;
+    height: 275px;
+    width: 811px;
+margin-left: 50px;
+margin-top: 65px;
+}
+/*.failed {
+    background-image: url("../../img/SCT/congradulation/result_pg_unsuccess.png");
+    background-repeat: no-repeat;
+    height: 267px;
+margin-left: 50px;
+width: 785px;
+margin-top: 30px;
+padding-top: 78px;
+padding-left: 40px;
+}*/
+.para1,.para5{
+    font-size: 20px;
+    color: black;
+    font-family: Arial;
+    font-weight: bold;
+}
+.para2{
+    margin-top:10px;
+    width: 430px;
+}
+.para7{
+    width: 430px;
+}
+.para3,.para4{
+    margin-top: 5px;
+}
+.para6{
+    margin-top: 10px;
+}
+.failed .leftOption{
+    padding: 13px 0px 0px 35px;
+}
+.failed .rightOption {
+    margin-left: 29px;
+    margin-top: -52px;
+}
+.passed .leftOption{
+    padding: 25px 0px 0px 35px;
+}
+.passed .rightOption {
+    margin-left: 29px;
+    margin-top: -63px;
+}

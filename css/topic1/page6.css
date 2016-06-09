@@ -1,0 +1,135 @@
+.mainBoard {
+    background-image: url("../../img/slide_11/slide_11.png");
+    width: 1012px;
+    height: 657px;
+    margin: 0px auto;
+    position: relative;
+}
+.panelLeft {
+    height: 440px;
+    width: 511px;
+}
+.floatLeft {
+    float: left;
+}
+.panelRight {
+    height: 446px;
+    width: 443px;
+
+}
+.pageNameContainer{
+
+}
+.para1, .para2 {
+    margin-bottom: 10px;
+    width:455px;
+}
+ul{
+    margin-left:-22px;
+    margin-top: 0px;
+}
+ol {
+    margin-top: 0px;
+}
+ul li{
+    margin-bottom: 10px;
+}
+.para1{
+    margin-top: 0px;
+}
+.img1 {
+    margin-left: -75px;
+    margin-top: -20px;
+    cursor:default;
+}
+.para3{
+    width: 414px;
+}
+.para4 {
+    width: 355px;
+    margin-top:10px;
+}
+.popUpPara1{
+    margin-top: 15px;
+    width: 500px;
+}
+.primary{
+    margin-top: 10px;
+}
+/*.static_img {
+    background-image: url("../../img/GUI/static.png");
+    background-repeat: no-repeat;
+    height: 501px;
+    margin-left: 0px;
+    width: 1001px;
+        margin-top: 0px;
+}*/
+/* .overview_icon{
+        background-image: url("../../img/SCT/static/overview_icon.png");
+    background-repeat: no-repeat;
+    height: 352px;
+    margin-left: 23px;
+    width: 293px;
+        margin-top: 83px;
+} */
+.popUp{
+    //background-image: url("../../img/SCT/Quiz/popup_patch.png");
+    height:583px;
+    width:1012px;
+    background-repeat:no-repeat;
+    position:absolute;
+    left:0px;
+    top:0px;
+    z-index: 2;
+}
+.popUp1 .popUpBg,.popUp2 .popUpBg,.popUp3 .popUpBg{
+    background-image: url("../../img/BTN_PG/pop_up_small.png");
+    height:302px;
+    width:634px;
+    background-repeat:no-repeat;
+    margin-top: 193px;
+    margin-left: 360px;
+}
+/*.popUp2 .popUpBg{
+        background-image: url("../../img/SCT/Quiz/feedbacck_small/quiz_feed_pop_incorrect.png");
+        height:215px;
+        width:444px;
+        background-repeat:no-repeat;
+        margin: 224px auto 0px;
+}
+.popUp3 .popUpBg{
+        background-image: url("../../img/SCT/Quiz/feedbacck_small/quiz_feed_pop_tryagain.png");
+        height: 175px;
+    width: 363px;
+    background-repeat: no-repeat;
+    margin: 224px auto 0px;
+}*/
+.popUpBody{
+    width: 568px;
+    height: 262px;
+    padding: 27px 0px 0px 45px;
+}
+/*.popUp3 .popUpBody {
+    width: 341px;
+    height: 288px;
+    padding: 6px 0px 0px 20px;
+}*/
+.popUpClose{
+    cursor: pointer;
+    margin-right: 5px;
+    /*width: auto;
+    height: auto;
+    margin: 0px 21px 0px 0px;
+    cursor:pointer;*/
+}
+.popUpClose:hover{
+    //background-image: url("../../img/common/btn_exit_Yellow.png");	
+}
+.popUpHeader{
+    height:39px;
+    font-size:18px;
+    font-weight:bold;
+    color:#fff;
+    width:85px;
+    cursor:default;
+}

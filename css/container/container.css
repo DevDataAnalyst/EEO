@@ -1,0 +1,78 @@
+.mainLayout{
+	width: 901px;
+	height: 596px;
+}
+.upparLayout{
+	width: 901px;
+	height: 93px;
+}
+.lowerLayout{
+	background-image: url("../../img/Screen_11/bg_page.png");
+	background-repeat:no-repeat;
+	width: 1009px;
+	height: 503px;
+}
+.popUpHeader{
+	/*background-image: url("../../img/common/Topbar.png");*/
+	background-repeat:no-repeat;
+	width: 1009px;
+	height: 73px;
+}
+.print{
+	background-image: url("../../img/common/Print_btn_normal.png");
+	height:39px;
+	width:119px;
+	background-repeat:no-repeat;
+	margin:0px auto 20px 0px;
+	cursor:pointer;
+}
+.print:hover{
+	background-image: url("../../img/common/Print_btn_over.png");
+}
+.popUpFooter{
+	background-image: url("../../img/common/bottombar.png");
+	height:25px;
+	width:1009px;
+	background-repeat:no-repeat;
+}
+.popUpBg{
+	width: 1009px;
+	margin: 0px auto;
+}
+.popUpHolder{
+	width: 870px;
+}
+.popUpBody{	
+	width: 870px;
+	margin: 12px 0px 0px 73px;
+	overflow-y: auto;
+}
+.popUpClose{
+	background-image: url("../../img/Screen_38/close_btn.png");
+	width: 18px;
+	height: 18px;
+	margin: 15px 15px 0px 0px;
+	cursor:pointer;
+}
+.analyzeHeader{
+	margin-top: 30px;
+}
+#changeText{
+	margin-bottom: 30px;
+}
+.analyzeText, .planText, .driveText, .changeText{
+	border-bottom: 1px dashed;
+	padding: 5px;
+	word-wrap: break-word;
+	margin-bottom: 20px;
+}
+.border-bottom{
+
+}
+.analyzeHeader, .planHeader, .driveHeader, .changeHeader{
+	margin-bottom:10px;
+	font-size: 18px;
+}
+.margin-top{
+	margin-top: 10px;
+}

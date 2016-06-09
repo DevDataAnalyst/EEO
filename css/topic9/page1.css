@@ -1,0 +1,36 @@
+.mainBoard {
+    background-image: url("../../img/GUI/quiz_bg.jpg");
+    width: 1009px;
+    height: 662px;
+    margin: 0px auto;
+    position: relative;
+}
+.panelLeft {
+    height: 353px;
+	width: 437px;
+	margin-right: 43px;
+}
+.floatLeft {
+    float: left;
+}
+.panelRight {
+    background-image: url("../../img/static_slide_img_09.png");
+    background-repeat: no-repeat;
+    height: 581px;
+    margin-left: 0px;
+    width: 451px;
+	margin-top: -80px;
+}
+.pageNameContainer{
+	width: 230px;
+}
+ul{
+	margin-left:-28px;
+}
+
+ul li{
+	margin-bottom: 15px;
+}
+.para1{
+	margin-top: 0px;
+}

@@ -1,0 +1,78 @@
+
+.panelLeft {
+    height: 353px;
+	width: 437px;
+	margin-right: 43px;
+}
+.floatLeft {
+    float: left;
+}
+.panelRight {
+    background-image: url("../../img/static_slide_img_09.png");
+    background-repeat: no-repeat;
+    height: 581px;
+    margin-left: 0px;
+    width: 451px;
+	margin-top: -80px;
+}
+.pageNameContainer{
+	width: 230px;
+}
+ul{
+	margin-left:-28px;
+}
+
+ul li{
+	margin-bottom: 15px;
+}
+#result1{
+	font-size:24px;
+	color:#0e6573;
+	margin-left: 455px;
+}
+#result2{
+	font-size:24px;
+	color:#0e6573;
+	margin-left: 455px;
+}
+.tryAgain{
+	height:31px;
+	width:131px;
+	background-image: url("../../img/SCT/congradulation/Tryagain_exit_btn_N.png");
+	cursor:pointer;
+	margin-top: 20px;
+	margin-left: 273px;
+}
+.tryAgain:hover{
+	background-image: url("../../img/SCT/congradulation/Tryagain_exit_btn_O.png");
+}
+.cross_btn{
+	height:28px;
+	width:34px;
+	background-image: url("../../img/SCT/congradulation/congradulations_exit_btn_N.png");
+	cursor:pointer;
+	margin-left: 305px;
+	margin-top: 18px;
+	
+}
+.cross_btn:hover{
+	background-image: url("../../img/SCT/congradulation/congradulations_exit_btn_O.png");
+}
+.passed {
+    background-image: url("../../img/SCT/congradulation/congradulations_bg.png");
+    background-repeat: no-repeat;
+    height: 142px;
+    margin-left: 30px;
+    width: 792px;
+	margin-top: 30px;
+	padding-top: 200px;
+}
+.failed {
+    background-image: url("../../img/SCT/congradulation/Tryagain_bg.png");
+    background-repeat: no-repeat;
+    height: 183px;
+    margin-left: 30px;
+    width: 792px;
+	margin-top: 30px;
+	padding-top: 159px;
+}

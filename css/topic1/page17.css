@@ -1,0 +1,227 @@
+.mainBoard {
+    background-image: url("../../img/Slide_33/Slide_33.png");
+    width: 1012px;
+    height: 657px;
+    margin: 0px auto;
+    position: relative;
+}
+.panelUpper {
+    width: 901px;
+    height: 175px;
+}
+.panelLeft{
+    width:959px;
+    height: 437px;
+}
+.panelLower {
+    background-repeat:no-repeat;
+    width: 764px;
+    height: 262px;
+    font-family: Arial;
+    font-size: 18px;
+    color: rgb(0, 1, 1);
+    margin-left: 0px;
+}
+
+.thisiText{
+    
+}
+
+.cont{
+    margin-left: 30px;
+margin-top: 3px;
+}
+
+.lowerLayout1{
+    width: 764px;
+    height: 55px;
+    /* margin-left: 7px; */
+}
+.lowerLayout2{
+    /* background-image: url("../../img/SCT/Tab_slices/tab_BG.png"); */
+    background-repeat:no-repeat;
+    width: 645px;
+    height: 167px;
+    padding: 10px;
+    border-style: groove;
+    border-width: 2px2px2px;
+}
+#mod1img1 {
+    position: relative;
+    margin-left: 50px;
+    cursor:default;
+
+}
+#mod1img2 {
+    position: relative;
+    margin-left: -9px;
+    cursor:default;
+}
+#mod1img3 {
+    position: relative;
+    margin-left: 48px;
+    margin-top: -50px;
+    cursor: default;
+
+}
+#mod1img4 {
+    position: relative;
+    margin-top: -160px;
+margin-left: -20px;
+    cursor: default;
+
+}
+#mod1ctn1{
+
+}
+.tab1.current{
+    /* background-image: url("../../img/SCT/Tab_slices/tab_01_O.png"); */
+    background-repeat:no-repeat;
+    height: 55px;
+    width: 200px;
+    cursor:pointer;
+    margin-right: 8px;
+    margin-left: 0px;
+    background-color:grey;
+}
+.tab1{
+    /* background-image: url("../../img/SCT/Tab_slices/tab_01_N.png"); */
+    background-repeat:no-repeat;
+    height: 55px;
+    width: 200px;
+    cursor:pointer;
+    margin-right: 8px;
+    margin-left: 0px;
+    background-color:#72cdf4;
+}
+//.tab1:hover{
+/* background-image: url("../../img/SCT/Tab_slices/tab_01_O.png"); */
+//background-color:#72cdf4;
+//}
+/* .tab1.active{
+        background-image: url("../../img/SCT/Tab_slices/tab_01_N.png");
+} */
+.tab2.current{
+    /* background-image: url("../../img/SCT/Tab_slices/tab_02_O.png"); */
+    background-repeat:no-repeat;
+    height: 55px;
+    width: 200px;
+    cursor:pointer;
+    margin-right: 8px;
+    background-color:#999999;
+}
+.tab2{
+    /* background-image: url("../../img/SCT/Tab_slices/tab_02_N.png"); */
+    background-repeat:no-repeat;
+    height: 55px;
+    width: 200px;
+    cursor:pointer;
+    margin-right: 8px;
+    background-color:lightskyblue;
+}
+//.tab2:hover{
+/* background-image: url("../../img/SCT/Tab_slices/tab_02_O.png"); */
+//	background-color:grey;
+//}
+/* .tab2.active{
+        background-image: url("../../img/SCT/Tab_slices/tab_02_N.png");
+} */
+.tab3.current{
+    /* background-image: url("../../img/SCT/Tab_slices/tab_03_O.png"); */
+    background-repeat:no-repeat;
+    height: 55px;
+    width: 200px;
+    cursor:pointer;
+    margin-right: 8px;
+    background-color:grey;
+}
+.tab3{
+    /* background-image: url("../../img/SCT/Tab_slices/tab_03_N.png"); */
+    background-repeat:no-repeat;
+    height: 55px;
+    width: 200px;
+    cursor:pointer;
+    margin-right: 8px;
+    background-color:lightskyblue;
+}
+//.tab3:hover{
+/* background-image: url("../../img/SCT/Tab_slices/tab_03_O.png"); */
+//	background-color:grey;
+//}
+/* .tab3.active{
+        background-image: url("../../img/SCT/Tab_slices/tab_03_N.png");
+} */
+.tab4.current{
+    background-image: url("../../img/SCT/Tab_slices/tab_04_O.png");
+    background-repeat:no-repeat;
+    height: 55px;
+    width: 158px;
+    cursor:pointer;
+    margin-right: 8px;
+}
+/* .tab4{
+        background-image: url("../../img/SCT/Tab_slices/tab_04_N.png");
+        background-repeat:no-repeat;
+        height: 55px;
+        width: 158px;
+        cursor:pointer;
+        margin-right: 8px;
+}
+.tab4:hover{
+        background-image: url("../../img/SCT/Tab_slices/tab_04_O.png");
+}
+.tab4.active{
+        background-image: url("../../img/SCT/Tab_slices/tab_04_N.png");
+} */
+.tabContent {
+    margin-top: 25px;
+}
+.tab1Content,.tab2Content,.tab3Content,.tab4Content{
+    margin-left: 0px;
+    width: 600px;
+}
+
+.tabParaGap{
+    margin-bottom:15px;
+}
+.tab1para1,.tab2para2,.tab3para3{
+    padding-left: 21px;
+}
+.tab{
+    line-height: 55px;
+    font-size: 16px;
+    color:black;
+    font-weight:bold;
+    text-align: center;
+}
+.tabNameDiv1,.tabNameDiv2,.tabNameDiv3 {
+    margin-left: -203px;
+    margin-top: 15px;
+    cursor:pointer;
+}
+
+.lowerPanel {
+    margin-top: -39px;
+}
+
+/* .pageNameContainer{
+        width: 230px;
+}
+ul{
+        margin-left:-28px;
+}
+
+ul li{
+        margin-bottom: 15px;
+}
+.para1{
+        margin-top: 0px;
+} */
+/* .overview_icon{
+        background-image: url("../../img/SCT/static/overview_icon.png");
+    background-repeat: no-repeat;
+    height: 352px;
+    margin-left: 23px;
+    width: 293px;
+        margin-top: 83px;
+} */

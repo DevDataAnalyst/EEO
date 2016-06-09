@@ -1,0 +1,83 @@
+.mainBoard {
+    background-image: url("../../img/slide_4/slide_4_bg.png");
+    width: 1012px;
+    height: 657px;
+    margin: 0px auto;
+    position: relative;
+}
+.panelLeft {
+    height: 444px;
+    width: 937px;
+}
+.floatLeft {
+    float: left;
+}
+.panelRight {
+    height: 357px;
+    width: 400px;
+
+}
+.pageNameContainer{
+
+}
+.para50 {
+    position: absolute;
+    margin-top: 358px;
+}
+.img1{
+    position:relative;
+    z-index:50;
+    cursor:default;
+}
+.img2{
+    position:relative;
+    z-index:100;
+    cursor:default;
+    margin-left: 55px;
+    margin-top: -107px;
+}
+.img3{
+    position:relative;
+    z-index:150;
+    cursor:default;
+    margin-left: 164px;
+    margin-top: -88px;
+}
+ul{
+    margin-left:-28px;
+}
+
+ul li{
+    margin-bottom: 15px;
+}
+.para1{
+    margin-top: 0px;
+}
+
+.continue_btn{
+    position:absolute;
+    margin-top: 388px;
+    margin-left: 290px;
+}
+/*.static_img {
+    background-image: url("../../img/GUI/static.png");
+    background-repeat: no-repeat;
+    height: 501px;
+    margin-left: 0px;
+    width: 1001px;
+        margin-top: 0px;
+}*/
+/* .overview_icon{
+        background-image: url("../../img/SCT/static/overview_icon.png");
+    background-repeat: no-repeat;
+    height: 352px;
+    margin-left: 23px;
+    width: 293px;
+        margin-top: 83px;
+} */
+#iTextNote{
+height: 23px;
+margin: -52px 0px 0px;
+background-color: white;
+padding: 4px;
+}
