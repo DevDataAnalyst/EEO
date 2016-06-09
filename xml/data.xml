@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MenuDriven>
+    <modules>
+        <module>
+            <page id="top1Page1">
+                <ele id="para1"> <![CDATA[Kevin Nicholson is a People Leader at Cognizant, New Jersey. He has a team of ten associates at various levels, reporting to him. Kevin has grown and risen within the organization based on his talent and people skills.]]></ele>
+                <ele id="para2"> <![CDATA[Kevin has to make several crucial decisions regarding various aspects of his team members' employment. Cognizant's EEO policy and US employment laws have played a significant role in helping him make the best decisions for the company and his team members.]]></ele>
+                <ele id="para3"> <![CDATA[The module will take you through a day in the life of Kevin.]]></ele>
+                <ele id="iTextNote"> <![CDATA[Click the <b>Continue</b> button to read on.]]></ele>
+				
+            </page>
+            <page id="top1Page2">
+                <ele id="para1"> <![CDATA[Before we look at Kevin's day, we need to have an understanding of EEO.]]></ele>
+                <ele id="para2"> <![CDATA[Cognizant's EEO policy and US employment laws ensure that applicants and associates are not discriminated against in any employment practices. This module will look at the antidiscrimination laws in the US, disparate treatment discrimination, adverse impact discrimination, and the Equal Pay Act (EPA).]]></ele>
+                <ele id="para3"> <![CDATA[By the end of this module, you will be able to:
+				<ul>
+					<li>Explain Cognizant's EEO Policy Statement</li>
+					<li>List the various antidiscrimination laws</li>
+                                        <li>Recognize the consequences of not operating within these laws</li>
+                                        <li>Recognize the various types of discrimination</li>
+                                        <li>Identify when potential equal pay issues may exist</li>
+				</ul>
+				]]></ele>
+            </page>   
+            <page id="top1Page3">
+                <ele id="para1"> <![CDATA[It is a bright Monday morning. Kevin is all geared up for the week ahead. He gets a cup of coffee and begins the day by checking his emails. While sifting through the recruitment list, he comes across Samantha Bruce's recruitment files.
+]]></ele>
+                <ele id="para2"> <![CDATA[Kevin had interviewed Samantha last month and had identified her as a valuable resource for the company.]]></ele>
+                <ele id="para3"> <![CDATA[He had noticed during the interview with Samantha that she was pregnant. Kevin knew he couldn't have lawfully inquired about her pregnancy. So, he did not know when she would need to take maternity leave and likely be unavailable for any upcoming work shortly after joining the company.]]></ele>
+                <ele id="para4"> <![CDATA[He wonders if he should recommend her for the next step in the hiring process, knowing of her potential unavailability.]]>
+                </ele>
+                <ele id="iTextNote1"> <![CDATA[Click the <b>Continue</b> button to read on.]]></ele>
+                <ele id="iTextNote2"> <![CDATA[Click the <b>Continue</b> button to read on.]]></ele>
+            </page>
+            <page id="top1Page4">
+                <ele id="para1"> <![CDATA[Kevin has a very difficult decision to make. He knows that Samantha's maternity leave would have an impact on productivity and deliverables. He has to choose between hiring her, and not hiring her due to her anticipated unavailability in the coming months. What do you think Kevin should do?]]></ele>
+                <!--<ele id="para1"> <![CDATA[Is the above statement true or false?]]></ele>-->
+                <ele id="para2"> <![CDATA[Choose your opinion and click <b>Submit.</b>]]></ele>
+                <ele id="para3"> <![CDATA[Kevin should not extend an offer to Samantha, as she will be taking maternity leave in the near future, and it would put productivity and deliverables at risk.]]></ele>
+                <ele id="para4"> <![CDATA[Kevin is not certain about what he should do. He sets the file aside and decides to reach out to his Talent Manager, Christopher Gutierrez, for advice.]]></ele>
+                <ele id="para5"> <![CDATA[Kevin decides to extend an offer to Samantha as he had identified her as the most qualified resource for the project. Her maternity leave should not influence his decision.]]></ele>
+                <!--<ele id="para6"> <![CDATA[Marketing]]></ele>-->
+                <ele id="popUpPara1"> <![CDATA[While productivity and deliverables for a project are always top of mind for a leader, choosing not to hire Samantha because she is pregnant is not the correct decision as it violates Cognizant's EEO Policy, US antidiscrimination laws, and puts the company at risk.]]></ele>
+                <ele id="popUpPara2"> <![CDATA[Click <b>Next</b> to read about Cognizant's EEO Policy Statement and learn about the right approach.]]></ele>
+                <ele id="popUpPara3"> <![CDATA[Kevin calls his Talent Manager, Christopher Gutierrez, who is always available for guidance and counsel on issues related to employment laws and Cognizant policies. Christopher listens to Kevin's concerns and advises Kevin about Cognizant's EEO Policy Statement and US Antidiscrimination Laws and recommends that Kevin extends an offer to Samantha since she is the most qualified for the role.]]></ele>
+                <ele id="popUpPara4"> <![CDATA[Click <b>Next</b> to read the policy statements and laws.]]></ele>
+                <ele id="popUpPara5"> <![CDATA[Kevin's decision to not let Samantha's upcoming maternity leave stop him from extending an offer of employment, is the correct decision as it would not violate Cognizant's EEO Policy and US antidiscrimination laws.]]></ele>
+                <ele id="popUpPara6"> <![CDATA[Click <b>Next</b> to read about Cognizant's EEO Policy Statement and find out why this is the right approach to this case.]]></ele>
+            </page>   
+            <page id="top1Page5">
+                <ele id="para1"> <![CDATA[Let's see what Kevin learns about Cognizant's EEO Policy Statement.]]></ele>
+                <ele id="para2"> <![CDATA[Cognizant's EEO policy statement makes it very clear that Cognizant and the Executive Leadership are committed to ensuring that applicants and associates are not discriminated against in any of our employment practices on the basis of age, sex, color, race, creed, national origin, religion, marital status, citizenship status, ancestry, sexual orientation, gender identity, affection preference, disability status, protected veteran status, membership or activity in local human rights commission, status with regard to public assistance, or any other classification protected by applicable law.]]></ele>
+                <ele id="para3"> <![CDATA[Employment practices include, but are not limited to, recruiting, hiring, training, promotions, pay practices, benefits, disciplinary actions, and terminations.]]></ele>
+                <ele id="para4"> <![CDATA[Click the PDF icon to open and download Cognizant's EEO policy statement.]]></ele>
+            </page> 
+            <page id="top1Page6">
+                <ele id="para1"> <![CDATA[Kevin decides to read more about the policy and find out where it can be accessed.]]></ele>
+                <ele id="para2"> <![CDATA[The policy also states the organization's commitment to Affirmative Action; removing barriers from Cognizant's employment practices that impact individuals based on their gender, race, veteran status, or disability status.]]></ele>
+                <ele id="para3"> <![CDATA[Cognizant’s EEO policy statement is updated annually and posted for applicants and associates on the external website, intranet, applicant system, and in our offices. The policy statement is also submitted to potential customers during the Request for Proposal (RFP) process, and when requested by a client. Many Cognizant clients include an EEO clause in their contracts.]]></ele>
+                <ele id="para4"> <![CDATA[Click the button to learn the steps to access the EEO policy.]]></ele>
+                <ele id="popUpPara1"> <![CDATA[To access the EEO Policy Statement, please follow these steps:
+				<ol>
+					<li>Log on to OneCognizant.</li>
+					<li>Launch the About HR application from the AppStore.</li>
+                                        <li>Select United States of America from the list of countries.</li>
+                                        <li>Select Affirmative Action and EEO on the left navigation pane.</li>
+                                        <li>Select EEO Policy.</li>
+				</ol>
+				]]></ele>
+            </page>
+            <page id="top1Page7">
+                <ele id="para1"> <![CDATA[After reading through the EEO policy documents thoroughly, Kevin was clear and confident about his decision. He extended the offer to Samantha since she was the most qualified for the role. ]]></ele>
+            </page>
+            <page id="top1Page8">
+                <ele id="para1"> <![CDATA[Kevin now looks through the rest of his emails. Erin Marino, one of Kevin's direct reports, needs his advice. ]]></ele>
+                <ele id="para2"> <![CDATA[Click the email icon to read Erin's email to Kevin. ]]></ele>
+                <ele id="para3"> <![CDATA[To: Nicholson, Kevin (Cognizant)]]></ele>
+                <ele id="para4"> <![CDATA[Subject: Advice needed]]></ele>
+                <ele id="para5"> <![CDATA[Hi Kevin,]]></ele>
+                <ele id="para6"> <![CDATA[I am thrilled that we won that huge account, but could use your help.]]></ele>
+                <ele id="para7"> <![CDATA[Juan Vice has been with our company for 14 years and is suited the most qualified team member to head the account. However, this is a long-term project and I am wondering if I should promote him as he may be retiring in the next few years. On the other hand, Ann Wong is almost as qualified as Juan in capabilities and is not eligible for retirement in the near future. I am concerned about promoting Juan. Can you please help me?]]></ele>
+                <ele id="para8"> <![CDATA[Thanks and Regards,]]></ele>
+                <ele id="para9"> <![CDATA[Erin]]></ele>
+            </page>
+            <page id="top1Page9">
+                <ele id="para1"> <![CDATA[Kevin wonders if Juan's age should be a factor for Erin's decision. While Juan may be retiring in the next few years, he is also the most qualified to head the project. Help Kevin advise Erin on the issue.]]></ele>
+                <ele id="para2"> <![CDATA[Choose your opinion and click <b>Submit</b>.]]></ele>
+                <ele id="para3"> <![CDATA[Kevin advises Erin to promote Ann Wong as Juan Vice might not be available for the project for the long term. He thinks that nothing should impact a project in any way.]]></ele>
+                <ele id="para4"> <![CDATA[Kevin is not certain of the direction he should give to Erin. He decides to reach out to his Talent Manager, Christopher Gutierrez, for advice.]]></ele>
+                <ele id="para5"> <![CDATA[Kevin advises Erin to promote Juan Vice as he is eligible and the most qualified for the role. His age should not be a factor in the decision.]]></ele>
+                <ele id="popUpPara0a"> <![CDATA[Click <b>Next</b> to read about the antidiscrimination laws in the United States, and find out why Erin should promote Juan.]]></ele>
+                <ele id="popUpPara0b"> <![CDATA[Click <b>Next</b> to read about the antidiscrimination laws in the United States, and find out why Erin should promote Juan.]]></ele>
+                <ele id="popUpPara0c"> <![CDATA[Click <b>Next</b> to read about the antidiscrimination laws in the United States, and find out why Erin should promote Juan.]]></ele>
+                <ele id="popUpPara1"> <![CDATA[Project continuity is a concern; however, Kevin's advice to promote Ann over Juan due to his age violates United States Antidiscrimination Laws and the Cognizant EEO Policy, and puts the organization at risk.]]></ele>
+                <ele id="popUpPara3"> <![CDATA[Kevin calls his Talent Manager, Christopher Gutierrez, who is always available for guidance and counsel on issues related to employment laws and Cognizant policies. Christopher listens to Kevin's concerns and advises Kevin about Cognizant's EEO Policy Statement and US Antidiscrimination Laws. Christopher also advises Kevin to avoid making assumptions about his associates' career and life plans. He recommends that Kevin promotes Juan since he is the most qualified for the role.]]></ele>
+                <ele id="popUpPara5"> <![CDATA[Kevin's advice to not let Juan's age be a factor, is the correct decision as it is in compliance with Cognizant's EEO Policy Statement and US Antidiscrimination Laws.]]></ele>
+			   
+            </page> 
+            <page id="top1Page10">
+                <ele id="para1"> <![CDATA[Let's see what Kevin finds out about the antidiscrimination laws in the United States.]]></ele>
+                <ele id="para12"> <![CDATA[There are numerous antidiscrimination laws in the US that all employers must follow. People Leaders are required to be aware of, and operate within, the US employment laws, and understand the consequences for violating these laws.]]></ele>
+                <ele id="para13"> <![CDATA[A list of the US antidiscrimination laws is provided below.]]></ele>
+                
+                <ele id="para2"> <![CDATA[Click the <b>Continue</b> button to read on.]]></ele>
+            </page>
+            <page id="top1Page11">
+                <ele id="para1"> <![CDATA[After reviewing the antidiscrimination laws, Kevin learned about the potential consequences an organization could face for violating antidiscrimination laws in the United States.]]></ele>
+                <ele id="para2"> <![CDATA[Potential penalties include the following requirements: 
+                                    <ul>
+					<li>To provide Back Pay</li>
+					<li>To hire applicants who were discriminated against</li>
+                                        <li>To promote associates previously denied a promotion</li>
+                                        <li>To rehire associates wrongfully terminated</li>
+                                        <li>To provide front pay</li>
+                                        <li>To provide reasonable accommodation, or other benefits that would make the individual "whole" (in the condition he\she would have been but for the discrimination)</li>
+                                    </ul>]]></ele>
+                <ele id="para3"> <![CDATA[Some additional consequences for the company may include the following requirements:
+
+                                    <ul>
+					<li>To pay attorneys' fees</li>
+					<li>To pay expert witness fees </li>
+                                        <li>To pay court costs</li>
+                                    </ul>]]></ele>
+                <ele id="para4"> <![CDATA[In addition to the items above, a federal contractor who is found guilty of discrimination could be barred from doing business with the US Government, impacting their revenue stream.]]></ele>
+            </page>
+            <page id="top1Page12">
+                <ele id="para1"> <![CDATA[During Kevin's research, he learned about two US government agencies that enforce the laws. He made notes about each agency.]]></ele>
+                <ele id="para2"> <![CDATA[Click the post-it notes to read what Kevin has noted down.]]></ele>
+                <ele id="popUpPara1"> <![CDATA[The Equal Employment Opportunity Commission, often referred to by its acronym EEOC, is the US Federal Agency that enforces the antidiscrimination laws that Kevin just reviewed. The EEOC also investigates discrimination complaints that are filed with them by US workers. This includes complaints of discrimination, retaliation, and coercion on the basis of any protected classification (such as gender or race).]]></ele>
+                <ele id="popUpPara2"> <![CDATA[Here are some key facts about the EEOC:
+				<ul>
+					<li>It is a government agency.</li>
+					<li>It enforces antidiscrimination laws.</li>
+                                        <li>It investigates discrimination complaints filed by US workers.</li>     
+				</ul>
+				]]></ele>
+                <ele id="popUpPara3"> <![CDATA[The Office of Federal Contract Compliance Programs, often referred to by its acronym OFCCP, is the US Federal Agency that enforces compliance with the regulations implemented for federal contractors. The OFCCP enforces the regulations through auditing of federal contractors and investigating complaints filed by US applicants and employees.]]></ele>
+                <ele id="popUpPara4"> <![CDATA[A federal contractor is any company, which sells goods or provides services to the federal government. Cognizant is a federal contractor and a large revenue stream comes from the work that is done through Federal Government contracts. Many of these clients are also government contractors.]]></ele>
+                <ele id="popUpPara5"> <![CDATA[Many government agencies share information on a regular basis. For example, the EEOC during an investigation may find that a government contactor is not complying with the regulations enforced by the OFCCP. The EEOC will continue the charge they are investigating and notify the OFCCP of the organization's non-compliance.]]></ele>
+                <ele id="popUpPara6"> <![CDATA[Here are some key facts about the OFCCP:
+				<ul>
+					<li>It is a government agency. </li>
+					<li>It enforces antidiscrimination laws for federal contractors.</li>
+                                        <li>It audits federal contractors to ensure compliance and investigates discrimination complaints filed by US applicants and employees.</li>     
+				</ul>
+				]]></ele>
+            </page>
+            <page id="top1Page13"> 
+                <ele id="para1"> <![CDATA[While conducting his research Kevin finds public information about two of Cognizant's competitors.]]></ele>
+                <ele id="para2"> <![CDATA[Kevin learns that two of Cognizant's competitors are currently facing litigation for allegations of discrimination towards employees and applicants who are Caucasian and/or American Nationals. These cases could be certified as class action lawsuits. Many class action lawsuits, if won by the individuals making the claims, result in settlements for millions of dollars.]]></ele>
+                <ele id="para3"> <![CDATA[In addition to the potential financial implications, you should be aware of the potential damage to a company's brand. The US media frequently reports news of discrimination in the US workplace. This type of news coverage can damage a company's reputation with their customers, their employees, and job seekers.]]></ele>
+                <ele id="para4"> <![CDATA[Click the buttons to learn more about violation of EEO laws and the potential damages.]]></ele>
+                <ele id="popUpPara1"> <![CDATA[Companies that face allegations of violating US employment laws can face substantial financial penalties, as well as damage to their reputation and corporate brand. Both Infosys and TATA Consulting Services (TCS) are currently in litigation concerning their employment practices.]]></ele>
+                <ele id="popUpPara2"> <![CDATA[Some of the allegations raised against Infosys and TCS include:
+				<ul>
+					<li>Infosys and TCS discriminated against applicants and employees based on their race (Caucasian and non-South Asians) and their National Origin (American Nationals). </li>
+					<li>The law suits allege an intentional pattern and practice of discrimination in their employment decisions (hiring, promotions, compensation, and terminations).</li>
+                                        <li>Approximately 95% of their workforces in the US are South Asian; however, South Asian representation in the US labor market is approximately 1-2%.</li>     
+                                        <li>Many of their worksites lacked diversity with all of the associates being South Asian.</li>
+                                </ul>
+				]]></ele>
+                <ele id="popUpPara3"> <![CDATA[The plaintiffs are requesting that the cases be classified as class action lawsuits. They are also seeking injunctive relief, as well as compensatory and punitive damages. Both cases received Right To Sue letters from the EEOC. The cases could take years to settle, causing a drain on company resources and impacting profitability.]]></ele> 
+            </page>
+            <page id="top1Page14">
+                <ele id="para1"> <![CDATA[After Kevin completes his research of the Cognizant EEO Policy and US antidiscrimination laws, he now knows how to guide Erin on the decision she needs to make regarding the role of project head for the new deal.]]></ele>
+                <ele id="para2"> <![CDATA[Click the email icon to read Kevin's reply to Erin’s email.]]></ele>
+                <ele id="para3"> <![CDATA[To: Marino, Erin (Cognizant)]]></ele>
+                <ele id="para4"> <![CDATA[Subject: RE: Advice needed]]></ele>
+                <ele id="para5"> <![CDATA[Hi Erin,]]></ele>
+                <ele id="para6"> <![CDATA[I can understand your dilemma. You are wondering whether it'll be wise to choose someone younger, but slightly less qualified to head the account.]]></ele>
+                <ele id="para7"> <![CDATA[Cognizant's EEO Policy and the Age Discrimination in Employment Act of 1967, or ADEA, both prohibit discriminating against an applicant or associate because they are forty years or older. Juan's ability to retire in the near future, which is directly related to his age, should not factor into his eligibility and opportunity for advancement. If Juan is the most qualified, you should offer him the role. If he is not interested in heading the account then you can offer it to the next most qualified individual, Ann.]]></ele>
+                <ele id="para8"> <![CDATA[I hope this helps. If you have situations like this in the future, you can also reach out to our Talent Manager for further guidance.]]></ele>
+                <ele id="para9"> <![CDATA[Thanks,]]></ele>
+                <ele id="para10"> <![CDATA[Kevin]]></ele>
+            </page> 
+            <page id="top1Page15">
+                <ele id="para1"> <![CDATA[Kevin wonders if discrimination is always intentional. He reads on to find out.]]></ele>
+                <ele id="para2"> <![CDATA[There are different types of discrimination that may occur in the workplace. As a leader, you should be aware of these potential issues, and should report to Talent Management if you think they may be occurring. It is important to be aware that not only can a company be sued for discrimination and harassment; supervisors can also be sued. Lack of knowledge and intent are not valid excuses for violating the law. If discriminatory or unlawful acts occur, the supervisor is legally liable whether or not the supervisor knew of the event or meant for the situation to occur.]]></ele>
+            </page>
+            <page id="top1Page16">
+                <ele id="para1"> <![CDATA[Adverse Impact discrimination is unintentional, however Disparate Treatment is the deliberate act of treating people differently based on a protected characteristic such as race or gender. Both are unlawful based on the US employment laws that were reviewed earlier.]]></ele>
+                <ele id="para2"> <![CDATA[Click each tab to learn more about Disparate Treatment and Adverse Impact Discrimination.]]></ele>
+                <ele id="para3"> <![CDATA[Disparate Treatment is treating an associate differently because of a protected characteristic such as pregnancy, race, or national origin. Let's walk through an example.]]></ele>
+                <ele id="para4"> <![CDATA[Jane was terminated for missing three days of work in one quarter. She claims that male workers who have missed three days of work in a quarter were not terminated. It appears that males and females are being managed differently, and this could be a potential case of disparate treatment. It is key to follow the same process for all associates, apply Cognizant's policies in the same manner, and work with your Talent Manager on issues such as this, in order to ensure that all associates are being managed against the same set of standards.]]></ele>
+                <ele id="para5"> <![CDATA[Adverse Impact Discrimination is when an employment practice negatively impacts one group more significantly than another group. Let's walk through an example.]]></ele>
+                <ele id="para6"> <![CDATA[The BU is hiring, and the role or project being filled does not require relocation. However, to be considered for employment, an individual must be able to relocate when the current project ends in three to five years. Requiring relocation for a future project or role, could knock women out of the hiring process at a much higher rate than men. This could result in adverse impact against women as a group.]]></ele>
+            </page>   
+            <page id="top1Page17">
+                <ele id="para1"> <![CDATA[After advising Erin and learning more about the types of discrimination, Kevin checks his meeting schedule. He leaves his office to oversee a Cognizant booth at a campus job fair. While on his way, he runs into a new associate, Michael Chan, who has joined his team this week. Michael takes the opportunity to raise a concern about his pay.]]></ele>
+                <ele id="para2"> <![CDATA[Kevin: Hi Michael, I am really excited to have you on my team.]]></ele>
+                <ele id="para3"> <![CDATA[Michael: Hi Kevin. I was just speaking with Major Donnell Clegg and understood that I have more years of experience and certifications than he does. However, we are receiving the same salary.]]></ele>
+                <ele id="para4"> <![CDATA[Kevin: Yes, I'm aware that both you and Major Clegg joined my team in the same role. However, it would not be appropriate for me to discuss another associate's salary with you. There are many factors that are considered in determining an associate's compensation, but I will look into your concerns and get back to you.]]></ele>
+                <ele id="para5"> <![CDATA[Michael: Thank you. I appreciate it.]]></ele>
+                <ele id="iText"><![CDATA[Click the <b>Continue</b> button to read on.]]></ele>
+            </page>
+            <page id="top1Page18">
+                <ele id="para1"> <![CDATA[Michael claims that his experience and certifications should result in a better offer package comparatively. Do you think that Kevin should consider Michael's concern?]]></ele>
+                <ele id="para2"> <![CDATA[Choose your opinion and click <b>Submit</b> to help Kevin make the right decision.]]></ele>
+                <ele id="para3"> <![CDATA[Kevin considers Michael's concern and his perception that he is more qualified than Major Clegg. To resolve the issue, Kevin requests a higher offer package for Michael.]]></ele>
+                <ele id="para4"> <![CDATA[Kevin considers Michael's concern and his perception that he is more qualified than Major Clegg. He decides to investigate the process used to determine compensation offers, and what company policies or US laws impact the offer package.]]></ele>
+                <ele id="para5"> <![CDATA[Kevin firmly rejects Michael's concern because Major Clegg is a US military veteran and should get the same pay as any other employee. So, Michael should get the same salary package as the Major.]]></ele>
+                <ele id="popUpPara0a"> <![CDATA[Click <b>Next</b> to read about the EPA, Title VII, and the VEVRAA.]]></ele>
+                <ele id="popUpPara0b"> <![CDATA[Click <b>Next</b> to read about the EPA, Title VII, and the VEVRAA.]]></ele>
+                <ele id="popUpPara0c"> <![CDATA[Click <b>Next</b> to read about the EPA, Title VII, and the VEVRAA.]]></ele>
+                <ele id="popUpPara1"> <![CDATA[Kevin's decision to consider Michael's concern is appropriate, but requires research before adjusting the offer package.]]></ele>
+                <ele id="popUpPara3"> <![CDATA[Kevin's decision to consider Michael's concern is appropriate, but requires research.]]></ele>
+                <ele id="popUpPara5"> <![CDATA[Kevin's decision not to consider Michael's concerns would be incorrect. It is the Company's practice to ensure that our compensation practices are unbiased and objective.]]></ele>
+            </page>
+            <page id="top1Page19">
+                <ele id="para1"> <![CDATA[Kevin decides to look into Michael's concern. Kevin starts by researching the Equal Pay Act and refers back to Title VII.]]></ele>
+                <ele id="para2"> <![CDATA[Click each tab to learn more about the Equal Pay Act and Title VII.]]></ele>
+                <ele id="para3"> <![CDATA[Through the <b>Equal Pay Act (EPA)</b> the US government has taken a more aggressive stance on investigating potential pay discrimination. Recent regulatory changes based on the EPA have been designed to provide federal agencies with greater visibility into federal contractor pay practices, including a requirement to submit aggregated compensation data to the EEOC annually.]]></ele>
+                <ele id="para4"> <![CDATA[The <b>EPA</b> stipulates that no employer can discriminate between employees on the basis of sex (gender) by paying wages to employees, at a rate less than the rate at which they pay wages to employees of the opposite sex, for equal work on the jobs that require equal skill, effort, and responsibility, and are performed under similar working conditions.]]></ele>
+                <ele id="para5"> <![CDATA[<b>Title VII of the Civil Rights Act of 1964 (Title VII)</b> is significantly broader in scope than the EPA, making it unlawful to discriminate against employees and job applicants in any of our employment practices, which includes compensation based on sex, race, color, religion, or national origin. The Government is paying close attention to pay practices. It will now have access to employers aggregate compensation data on an annual basis. Cognizant ensures that its compensation decisions are driven by factors that are objective, non-discriminatory, and defensible.]]></ele>
+            </page> 
+            <page id="top1Page20">
+                <ele id="para1"> <![CDATA[Compensation should <b>NOT</b> be driven by subjective, discriminatory factors. Research shows that in the US, women and minorities are typically paid less for the same work. We do not want to perpetuate pay discrimination that originated at another employer by basing starting pay on what an individual was previously earning. Starting pay should be determined by the role an individual is hired for and by objective and valid compensation drivers.]]></ele>
+                <ele id="para2"> <![CDATA[Compensation changes must have a strong business case driven by objective, quantifiable standards, and must be well documented as they may need to be defended during a government investigation or audit.]]></ele>
+                <!-- <ele id="para3"> <![CDATA[In addition to the potential financial implications, you should be aware of the potential damage to a company's brand. The US media frequently reports news of discrimination in the US workplace. This type of news coverage can damage a company's reputation with their customers, their employees, and job seekers.]]></ele> -->
+                <ele id="para4"> <![CDATA[Click the buttons to learn more about about compensation drivers.]]></ele>
+                <ele id="popUpPara1"> <![CDATA[Some valid compensation drivers are:
+					<ul>
+						<li>Experience</li>
+						<li>Education</li>
+						<li>Certification</li>
+						<li>Company tenure</li>
+						<li>Time in grade level</li>
+						<li>Performance</li>
+						<li>Skill Set</li>
+						<li>Objective, quantifiable standards</li>
+					<ul>
+				]]></ele>
+                <ele id="popUpPara2"> <![CDATA[Some invalid compensation drivers are:
+					<ul>
+						<li>Race</li>
+						<li>Gender</li>
+						<li>National Origin</li>
+						<li>Age</li>
+						<li>Any other legally protected group</li>
+						<li>Favoritism</li>
+						<li>Subjective, immeasurable factors</li>
+					</ul>  
+				]]></ele>
+            </page>
+            <page id="top1Page21">
+                <ele id="para1"> <![CDATA[Since Major Clegg is a Veteran of the US military, Kevin researched the VEVRAA. Kevin wants to ensure that he would not be in violation of VEVRAA if he pays Michael more than Major Clegg, so he reviews it again.]]></ele>
+                <ele id="para2"> <![CDATA[The VEVRAA prohibits discrimination against US military veterans in all employment practices, including compensation and sets regulatory requirements for federal contractors. Our obligations under VEVRAA as a federal contactor will be discussed in the next module.]]></ele>
+            </page>
+            <page id="top1Page22">
+                <ele id="para1"> <![CDATA[Kevin determines that Michael's base salary should be adjusted after researching the applicable laws, reviewing the education and certifications of both associates, and speaking with his TM to understand other relevant factors such as the compensation levels within the peer group and the established pay ranges.]]></ele>
+                <ele id="para2"> <![CDATA[Kevin also learned from his TM that paying Michael differently from Major Clegg would <b>NOT</b> violate the EPA or VEVRAA since the pay differences are <b>NOT</b> being driven by discriminatory factors such as gender (EPA) or military status (VEVRAA).]]></ele>
+                <ele id="para3"> <![CDATA[A strong business case is needed anytime an associate's pay is being modified; this includes modifications to base pay, bonus pay, and revision pay. If discrimination is found in its pay practices, Cognizant could be required to provide back pay, front pay, and sign a conciliation agreement with the US Government. Loss of government work and damage to our corporate brand are also potential consequences.]]></ele>
+            </page> 
+            <page id="top1Page23">
+                <ele id="para1"> <![CDATA[Kevin has had a challenging day at work and has been tested on his decision-making skills.Through the situations presented, Kevin has learned that he is responsible for ensuring that our associates are treated fairly and US employment laws are followed. Let's do a high level review of what Kevin learned today:]]></ele>
+                <ele id="para2"> <![CDATA[1. Cognizant's EEO policy statement is very clear that Cognizant and the Executive Leadership are committed to ensuring that applicants and associates are not discriminated against in any of its employment practices based on their age, sex, color, race, creed, national origin, religion, marital status, citizenship status, ancestry, sexual orientation, gender identity, affection preference, disability status, protected veteran status, membership, or activity in local human rights commission, status with regard to public assistance, or any other classification protected by applicable law.]]></ele>
+                <ele id="para3"> <![CDATA[2. There are numerous antidiscrimination laws in the US that protect workers. Leaders need to be familiar with these laws and ensure compliance. Some potential remedies imposed by the federal government for discrimination in the workplace include payment for back pay or front pay, requirement to hire, promote, reinstate, provide reasonable accommodation, or other actions that would make an individual "whole“.]]></ele>
+                <ele id="para4"> <![CDATA[3. The Equal Employment Opportunity Commission, often referred to by its acronym EEOC, is the US Federal Agency that enforces the civil rights and antidiscrimination laws that were reviewed.]]></ele>
+                <ele id="para5"> <![CDATA[4. Adverse impact is unintentional, whereas a disparate treatment is the deliberate act of treating people differently based on a protected characteristic such as race or gender. Both are unlawful based on the laws that we reviewed earlier in the module.]]></ele>
+                <ele id="para6"> <![CDATA[5. Through the Equal Pay Act or EPA, the federal government has taken a more aggressive stance on investigating potential pay discrimination. Compensation decisions should be based on objective and quantifiable standards.]]></ele>
+            </page> 
+        </module>
+        <module>
+
+            <page id="top6Page1">
+                <ele id="para1"> <![CDATA[Now that Kevin has a better idea about Equal Employment Opportunity, it is time to test his knowledge.]]></ele>
+                <ele id="para2"> <![CDATA[Help Kevin answer the assessment questions, starting from the next screen. You will need to score 80% to pass the assessment.]]></ele>
+                <ele id="para3"> <![CDATA[Click <b>Start</b> to begin.]]></ele>
+               
+            </page> 
+          
+            <page id="top6Page2">
+                <ele id="para1"> <![CDATA[How often is the Cognizant EEO Policy reviewed and signed by our CEO?
+]]></ele>
+                <ele id="para2"> <![CDATA[Choose the correct option and click <b>Submit</b>.]]></ele>
+                <ele id="para3"> <![CDATA[Monthly]]></ele>
+                <ele id="para4"> <![CDATA[Annually]]></ele>
+                <ele id="para5"> <![CDATA[Every three years]]></ele>
+                <ele id="para6"> <![CDATA[Every ten years]]></ele>
+			   
+            </page>
+            <page id="top6Page3">
+                <ele id="para1"> <![CDATA[State whether the sentence below is true or false. ]]></ele>
+            
+                <ele id="para1a"> <![CDATA[Cognizant does business with the United States government, and as a result, is a federal contractor.]]></ele>
+                <ele id="para2"> <![CDATA[Choose the correct option and click <b>Submit</b>.]]></ele>
+                <ele id="para3"> <![CDATA[True]]></ele>
+                <ele id="para4"> <![CDATA[False]]></ele>
+			 
+			   
+            </page>
+            <page id="top6Page4">
+                <ele id="para1"> <![CDATA[Title VII of the Civil Rights Act of 1964 was passed to protect numerous groups from discrimination in the workplace. Select the groups below that are protected by the act.
+]]></ele>
+                <ele id="para2"> <![CDATA[Choose the correct options and click <b>Submit</b>.]]></ele>
+                <ele id="para3"> <![CDATA[Muslims]]></ele>
+                <ele id="para4"> <![CDATA[Females]]></ele>
+                <ele id="para5"> <![CDATA[Americans ]]></ele>
+                <ele id="para6"> <![CDATA[Individuals with a disability]]></ele>
+                <ele id="para7"> <![CDATA[Civilians (no military service)]]></ele>
+                <ele id="para8"> <![CDATA[Individuals that are under 40 years old]]></ele>
+			   
+            </page>
+            <page id="top6Page5">
+                <ele id="para1"> <![CDATA[An associate is pregnant and her doctor has advised her not to travel for the remainder of the pregnancy. What action should be taken?
+
+]]></ele>
+                <ele id="para2"> <![CDATA[Choose the correct option and click <b>Submit</b>.]]></ele>
+                <ele id="para3"> <![CDATA[Place the associate on the bench]]></ele>
+                <ele id="para4"> <![CDATA[Terminate the associate's employment]]></ele>
+                <ele id="para5"> <![CDATA[Pressurize the associate to resign ]]></ele>
+                <ele id="para6"> <![CDATA[Work with NA Benefits and the client to accommodate the medical need of the associate]]></ele>	   
+            </page>
+            <page id="top6Page6">
+                <ele id="para1"> <![CDATA[What are the potential outcomes of discrimination?]]></ele>
+                <ele id="para2"> <![CDATA[Choose the correct options and click <b>Submit</b>.]]></ele>
+                <ele id="para3"> <![CDATA[Lawsuits]]></ele>
+                <ele id="para4"> <![CDATA[Loss of government work]]></ele>
+                <ele id="para5"> <![CDATA[Brand damage]]></ele>
+                <ele id="para6"> <![CDATA[A competitive advantage ]]></ele>
+                <ele id="para7"> <![CDATA[More overseas business]]></ele>
+                <ele id="para8"> <![CDATA[Rise in stock value]]></ele>
+            </page>   
+            <page id="top6Page7">
+                <ele id="para1"> <![CDATA[Which factors are acceptable compensation drivers?]]></ele>
+                <ele id="para2"> <![CDATA[Choose the correct options and click <b>Submit</b>.]]></ele>
+                <ele id="para3"> <![CDATA[Associate is the bread winner]]></ele>
+                <ele id="para4"> <![CDATA[Associate has 10 years of experience]]></ele>
+                <ele id="para5"> <![CDATA[Associate is personal friends with the BU head]]></ele>
+                <ele id="para6"> <![CDATA[Associate is a consistently high performer]]></ele>
+                <ele id="para7"> <![CDATA[Associate is younger with more work years left]]></ele>
+                <ele id="para8"> <![CDATA[Associate was born in the US]]></ele>	   
+            </page>             
+            <page id="top6Page8">
+                <ele id="para1"> <![CDATA[Which US law prohibits employment discrimination based on race, color, religion, sex, or national origin?]]></ele>
+                <ele id="para2"> <![CDATA[Choose the correct option and click <b>Submit</b>.]]></ele>
+                <ele id="para3"> <![CDATA[Title I and Title V of the Americans with Disabilities Act of 1990 ]]></ele>
+                <ele id="para4"> <![CDATA[Title VII of the Civil Rights Act of 1964 ]]></ele>
+                <ele id="para5"> <![CDATA[Pregnancy Discrimination Act]]></ele>
+                <ele id="para6"> <![CDATA[Civil Rights Act of 1991]]></ele>   
+            </page> 
+            
+            <page id="top6Page9">
+                <ele id="para1"> <![CDATA[As a People Leader, who should you inform, if you become aware of any case of discrimination in the workplace?]]></ele>
+                <ele id="para2"> <![CDATA[Choose the correct option and click <b>Submit</b>.]]></ele>
+                <ele id="para3"> <![CDATA[Talent Management]]></ele>
+                <ele id="para4"> <![CDATA[Your peer ]]></ele>
+                <ele id="para5"> <![CDATA[Your client contact]]></ele>
+                <ele id="para6"> <![CDATA[None, you should not report cases]]></ele>
+            </page> 
+            <page id="top6Page10">
+                <ele id="para1"> <![CDATA[Which one of these is defined as an unintentional act of discrimination?]]></ele>
+                <ele id="para2"> <![CDATA[Choose the correct option and click <b>Submit</b>.]]></ele>
+                <ele id="para3"> <![CDATA[Disparate Treatment Discrimination]]></ele>
+                <ele id="para4"> <![CDATA[Negative Impact Treatment ]]></ele>
+                <ele id="para5"> <![CDATA[Gender Discrimination]]></ele>
+                <ele id="para6"> <![CDATA[Adverse Impact Discrimination]]></ele>	   
+            </page> 
+            <page id="top6Page11">
+                <ele id="para1"> <![CDATA[State whether the sentence below is true or false.]]></ele>
+                <ele id="para1a"> <![CDATA[Compensation changes must have a strong business case driven by objective and quantifiable standards, and must be well documented because they may need to be defended during an audit by the US government.]]></ele>
+                <ele id="para2"> <![CDATA[Choose the correct option and click <b>Submit</b>.]]></ele>
+                <ele id="para3"> <![CDATA[True]]></ele>
+                <ele id="para4"> <![CDATA[False ]]></ele>
+            </page> 
+        </module>
+    </modules>
+</MenuDriven>

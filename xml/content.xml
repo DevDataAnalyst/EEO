@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MenuDriven>
+    <modules>		
+        <module>
+            <lessonTitle><![CDATA[Chapter Title]]></lessonTitle>
+            <text><![CDATA[Introduction]]></text>
+            <section name="Introduction">
+                <page name="Introduction | Meet Kevin" id="top1Page1"><![CDATA[html/topic1/page1.html]]></page>
+                <page name="Introduction | An Overview" id="top1Page2"><![CDATA[html/topic1/page2.html]]></page>
+            </section>
+        </module>
+        <module>
+            <lessonTitle><![CDATA[Chapter Title]]></lessonTitle>
+            <text><![CDATA[EEO Policy Statement]]></text>
+            <section name="EEO Policy Statement">
+                <page name="EEO Policy Statement | The Samantha Bruce Episode" id="top1Page3"><![CDATA[html/topic1/page3.html]]></page>
+                <page name="EEO Policy Statement | Your Opinion" id="top1Page4"><![CDATA[html/topic1/page4.html]]></page>
+                <page name="EEO Policy Statement | The Right Approach" id="top1Page5"><![CDATA[html/topic1/page5.html]]></page>
+                <page name="EEO Policy Statement | More About the Statement" id="top1Page6"><![CDATA[html/topic1/page6.html]]></page>
+                <page name="EEO Policy Statement | The Samantha Bruce Episode" id="top1Page7"><![CDATA[html/topic1/page7.html]]></page>
+            </section>
+        </module>
+        <module>
+            <lessonTitle><![CDATA[Chapter Title]]></lessonTitle>
+            <text><![CDATA[Discrimination]]></text>
+            <section name="Discrimination">
+                <page name="Discrimination | The Erin Marino Episode" id="top1Page8"><![CDATA[html/topic1/page8.html]]></page>
+                <page name="Discrimination | Your Opinion" id="top1Page9"><![CDATA[html/topic1/page9.html]]></page>
+                <page name="Discrimination | Antidiscrimination Laws in the US" id="top1Page10"><![CDATA[html/topic1/page10.html]]></page>
+                <page name="Discrimination | Potential Remedies" id="top1Page11"><![CDATA[html/topic1/page11.html]]></page>
+                <page name="Discrimination | EEOC and OFCCP" id="top1Page12"><![CDATA[html/topic1/page12.html]]></page>
+                <page name="Discrimination | Employment Practices-Potential Legal Risks" id="top1Page13"><![CDATA[html/topic1/page13.html]]></page>
+                <page name="Discrimination | The Erin Marino Episode" id="top1Page14"><![CDATA[html/topic1/page14.html]]></page>
+                <page name="Discrimination | Types of Discrimination" id="top1Page15"><![CDATA[html/topic1/page15.html]]></page>
+                <page name="Discrimination | Disparate Treatment and Adverse Impact" id="top1Page16"><![CDATA[html/topic1/page16.html]]></page>
+            </section>
+        </module>
+        <module>
+            <lessonTitle><![CDATA[Chapter Title]]></lessonTitle>
+            <text><![CDATA[Equal Pay for Equal Work]]></text>
+            <section name="Equal Pay for Equal Work">
+                <page name="Equal Pay for Equal Work | The Michael Chan Episode" id="top1Page17"><![CDATA[html/topic1/page17.html]]></page>
+                <page name="Equal Pay for Equal Work | Your Opinion" id="top1Page18"><![CDATA[html/topic1/page18.html]]></page>
+                <page name="Equal Pay for Equal Work | The Equal Pay Act of 1963 (EPA)Title VII" id="top1Page19"><![CDATA[html/topic1/page19.html]]></page>
+                <page name="Equal Pay for Equal Work | Compensation Drivers" id="top1Page20"><![CDATA[html/topic1/page20.html]]></page>
+                <page name="Equal Pay for Equal Work | VEVRAA" id="top1Page21"><![CDATA[html/topic1/page21.html]]></page>
+                <page name="Equal Pay for Equal Work | The Michael Chan Episode " id="top1Page22"><![CDATA[html/topic1/page22.html]]></page>
+            </section>
+        </module>
+        <module>
+            <lessonTitle><![CDATA[Chapter Title]]></lessonTitle>
+            <text><![CDATA[A Quick Recap]]></text>
+            <section name="A Quick Recap">
+                <page name="A Quick Recap | What Kevin Learnt" id="top1Page23"><![CDATA[html/topic1/page23.html]]></page>
+            </section>
+        </module>
+        
+		
+        <module>
+            <lessonTitle><![CDATA[Chapter Title]]></lessonTitle>
+            <text><![CDATA[Assessments]]></text>
+            <section name="Assessment">
+                <page name="Assessment | Launch" id="top6Page1"><![CDATA[html/topic6/page1.html]]></page>
+                <page name="Assessment | Question 1" id="top6Page2"><![CDATA[html/topic6/page2.html]]></page>
+                <page name="Assessment | Question 2" id="top6Page3"><![CDATA[html/topic6/page3.html]]></page>
+                <page name="Assessment | Question 3" id="top6Page4"><![CDATA[html/topic6/page4.html]]></page>
+                <page name="Assessment | Question 4" id="top6Page5"><![CDATA[html/topic6/page5.html]]></page>
+                <page name="Assessment | Question 5" id="top6Page6"><![CDATA[html/topic6/page6.html]]></page>
+                <page name="Assessment | Question 6" id="top6Page7"><![CDATA[html/topic6/page7.html]]></page>
+                <page name="Assessment | Question 7" id="top6Page8"><![CDATA[html/topic6/page8.html]]></page>
+                <page name="Assessment | Question 8" id="top6Page9"><![CDATA[html/topic6/page9.html]]></page>
+                <page name="Assessment | Question 9" id="top6Page10"><![CDATA[html/topic6/page10.html]]></page>
+                <page name="Assessment | Question 10" id="top6Page11"><![CDATA[html/topic6/page11.html]]></page>
+                <page name="Assessment | Result" id="top6Page12"><![CDATA[html/topic6/page12.html]]></page>				
+            </section>	
+        </module>
+    </modules>
+    <assets>
+        <images id="1">   
+            <source><![CDATA[img/help_page.png]]></source>
+			<source><![CDATA[img/assessment_start_pg/assessment_bg.png]]></source>
+			<source><![CDATA[img/assessment_start_pg/assessment_bg_2.png]]></source>
+			<source><![CDATA[img/assessment_start_pg/assessment_strt_character.png]]></source>
+			<source><![CDATA[img/assessment_start_pg/start_assessment.png]]></source>
+			<source><![CDATA[img/assessment_start_pg/start_btn_d.png]]></source>
+			<source><![CDATA[img/assessment_start_pg/start_btn_n.png]]></source>
+			<source><![CDATA[img/BTN_PG/slide_12/slide_11.png]]></source>
+			<source><![CDATA[img/GUI/bg2.png]]></source>
+			<source><![CDATA[img/menu/menu.png]]></source>
+			<source><![CDATA[img/Slide_5/slide_5.png]]></source>
+			<source><![CDATA[img/slide_6/Slide_6.png]]></source>
+			<source><![CDATA[img/slide_11/slide_11.png]]></source>
+			<source><![CDATA[img/slide_22/slide_22.png]]></source>
+			<source><![CDATA[img/slide_23/slide_23.png]]></source>
+			<source><![CDATA[img/slide_30/slide_30.png]]></source>
+			<source><![CDATA[img/Slide_33/Slide_33.png]]></source>
+			<source><![CDATA[img/slide_43/slide_43.png]]></source>
+			<source><![CDATA[img/Slide_45/slide_45.png]]></source>
+	
+        </images>
+    </assets>
+    <audios>
+        <audio id="top1Page1">
+            <mp4>
+                <src><![CDATA[audio/Mod1/slide4_audio1.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod1/slide4_audio2.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod1/slide4_audio3.mp3]]></src>
+            </mp4> 
+        </audio>
+        <audio id="top1Page2">
+            <mp4>
+                <src><![CDATA[audio/Mod1/slide5.mp3]]></src>
+            </mp4> 
+        </audio>
+        <audio id="top1Page3">
+            <mp4>
+                <src><![CDATA[audio/Mod2/slide6_audio1.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod2/slide6_audio2.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod2/slide6_audio3.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod2/slide6_audio4.mp3]]></src>
+            </mp4> 
+        </audio>
+        <audio id="top1Page4">
+            <mp4>
+                <src><![CDATA[audio/Mod2/slide7.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod2/slide8_audio1.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod2/slide9_audio1.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod2/slide10_audio1.mp3]]></src>
+            </mp4> 
+        </audio>
+        <audio id="top1Page5">
+            <mp4>
+                <src><![CDATA[audio/Mod2/slide11.mp3]]></src>
+            </mp4> 
+        </audio>
+        <audio id="top1Page6">
+            <mp4>
+                <src><![CDATA[audio/Mod2/slide12.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod2/slide13_audio1_popup.mp3]]></src>
+            </mp4> 
+        </audio>
+        <audio id="top1Page7">
+            <mp4>
+                <src><![CDATA[audio/Mod2/slide14_audio1.mp3]]></src>
+            </mp4> 
+        </audio>
+        
+        <audio id="top1Page8">
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide15_audio1.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide15_audio2_email_popup.mp3]]></src>
+            </mp4> 
+        </audio>
+        
+        <audio id="top1Page9">
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide16.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide17.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide18.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide19.mp3]]></src>
+            </mp4> 
+            
+        </audio>
+        
+        <audio id="top1Page10">
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide20.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide21.mp3]]></src>
+            </mp4> 
+            
+        </audio>
+        
+        <audio id="top1Page11">
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide22.mp3]]></src>
+            </mp4> 
+            
+        </audio>
+        
+        <audio id="top1Page12">
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide23.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide24.mp3]]></src>
+            </mp4> 
+            
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide25.mp3]]></src>
+            </mp4> 
+            
+        </audio>
+        <audio id="top1Page13">
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide26_audio1.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide26_audio2.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide27.mp3]]></src>
+            </mp4> 
+            
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide28.mp3]]></src>
+            </mp4> 
+            
+        </audio>
+        <audio id="top1Page14">
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide29_audio1.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide29_audio2.mp3]]></src>
+            </mp4> 
+            
+        </audio>
+		
+        <audio id="top1Page15">
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide30.mp3]]></src>
+            </mp4> 
+            
+        </audio>
+        <audio id="top1Page16">
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide31_audio1.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide31_audio2.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod3/slide32.mp3]]></src>
+            </mp4> 
+            
+        </audio>
+        <audio id="top1Page17">
+            <mp4>
+                <src><![CDATA[audio/Mod4/slide33_audio1.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod4/slide33_audio2.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod4/slide33_audio3.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod4/slide33_audio5.mp3]]></src>
+            </mp4> 
+            
+        </audio>
+        <audio id="top1Page18">
+            <mp4>
+                <src><![CDATA[audio/Mod4/slide34.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod4/slide35.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod4/slide36.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod4/slide37.mp3]]></src>
+            </mp4> 
+            
+        </audio>
+        <audio id="top1Page19">
+            <mp4>
+                <src><![CDATA[audio/Mod4/slide38_audio1.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod4/slide38_tab1.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod4/slide39.mp3]]></src>
+            </mp4> 
+            
+        </audio>
+        <audio id="top1Page20">
+            <mp4>
+                <src><![CDATA[audio/Mod4/slide40.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod4/slide41.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod4/slide42.mp3]]></src>
+            </mp4> 
+            
+        </audio>
+        <audio id="top1Page21">
+            <mp4>
+                <src><![CDATA[audio/Mod4/slide43.mp3]]></src>
+            </mp4> 
+            
+        </audio>
+        <audio id="top1Page22">
+            <mp4>
+                <src><![CDATA[audio/Mod4/slide44.mp3]]></src>
+            </mp4> 
+            
+        </audio>
+        <audio id="top1Page23">
+            <mp4>
+                <src><![CDATA[audio/Mod5/slide45_audio1.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod5/slide45_audio2.mp3]]></src>
+            </mp4> 
+        </audio>
+        <audio id="top6Page1">
+            <mp4>
+                <src><![CDATA[audio/Mod6/slide46.mp3]]></src>
+            </mp4> 
+        </audio>
+        <audio id="top6Page2">
+            <mp4>
+                <src><![CDATA[audio/Mod6/slide47.mp3]]></src>
+            </mp4> 
+        </audio>
+        <audio id="top6Page3">
+            <mp4>
+                <src><![CDATA[audio/Mod6/slide48.mp3]]></src>
+            </mp4> 
+        </audio>
+        <audio id="top6Page4">
+            <mp4>
+                <src><![CDATA[audio/Mod6/slide49.mp3]]></src>
+            </mp4> 
+        </audio>
+        <audio id="top6Page5">
+            <mp4>
+                <src><![CDATA[audio/Mod6/slide50.mp3]]></src>
+            </mp4> 
+        </audio>
+        <audio id="top6Page6">
+            <mp4>
+                <src><![CDATA[audio/Mod6/slide51.mp3]]></src>
+            </mp4> 
+        </audio>
+        <audio id="top6Page7">
+            <mp4>
+                <src><![CDATA[audio/Mod6/slide52.mp3]]></src>
+            </mp4> 
+        </audio>
+        <audio id="top6Page8">
+            <mp4>
+                <src><![CDATA[audio/Mod6/slide53.mp3]]></src>
+            </mp4> 
+        </audio>
+        <audio id="top6Page9">
+            <mp4>
+                <src><![CDATA[audio/Mod6/slide54.mp3]]></src>
+            </mp4> 
+        </audio>
+        <audio id="top6Page10">
+            <mp4>
+                <src><![CDATA[audio/Mod6/slide55.mp3]]></src>
+            </mp4> 
+        </audio>
+        <audio id="top6Page11">
+            <mp4>
+                <src><![CDATA[audio/Mod6/slide56.mp3]]></src>
+            </mp4> 
+        </audio>
+        <audio id="top6Page12">
+            <mp4>
+                <src><![CDATA[audio/Mod6/slide57_audio1.mp3]]></src>
+            </mp4> 
+            <mp4>
+                <src><![CDATA[audio/Mod6/slide57_audio2.mp3]]></src>
+            </mp4> 
+        </audio>
+    </audios>
+    <audio_trans>
+        <page_AT id="top1Page1">
+            <text><![CDATA[Kevin Nicholson is a People Leader at Cognizant, New Jersey. He has a team of ten associates at various levels, reporting to him. Kevin has grown and risen within the organization based on his talent and people skills.<br>
+Click the Continue button to read on.<br><br>
+
+Kevin has to make several crucial decisions regarding various aspects of his team members' employment. Cognizant's Equal Employment Opportunity or EEO policy and US employment laws have played a significant role in helping him make the best decisions for the company and his team members.<br>
+Click the Continue button to read on.<br><br>
+
+
+The module will take you through a day in the life of Kevin.]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page2">
+            <text><![CDATA[Before we look at Kevin's day, we need to have an understanding of EEO.<br> <br>
+
+Cognizant's EEO policy and US employment laws ensure that applicants and associates are not discriminated against in any employment practices. This module will look at the antidiscrimination laws in the US, disparate treatment discrimination, adverse impact discrimination, and the Equal Pay Act or EPA.<br><br>
+
+By the end of this module, you will be able to:<br>
+<ul>
+<li>Explain Cognizant's EEO Policy Statement</li>
+<li>List the various antidiscrimination laws</li>
+<li>Recognize the consequences of not operating within these laws</li>
+<li>Recognize the various types of discrimination</li>
+<li>Identify when potential equal pay issues may exist</li>
+</ul>
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page3">
+            <text><![CDATA[It is a bright Monday morning. Kevin is all geared up for the week ahead. He gets a cup of coffee and begins the day by checking his emails. While sifting through the recruitment list, he comes across Samantha Bruce's recruitment files.<br><br>
+
+Kevin had interviewed Samantha and had identified her as a valuable resource for the company.<br>
+Click the Continue button to read on.<br><br>
+
+
+He had noticed during the interview with Samantha that she was pregnant. Kevin knew he couldn't have lawfully inquired about her pregnancy. So, he did not know when she would need to take maternity leave and likely be unavailable for any upcoming work shortly after joining the company.<br>
+Click the Continue button to read on.<br><br>
+
+
+He wonders if he should recommend her for the next step in the hiring process, knowing of her potential unavailability.
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page4">
+            <text><![CDATA[Kevin has a very difficult decision to make. He knows that Samantha's maternity leave would have an impact on productivity and deliverables. He has to choose between hiring her, and not hiring her due to her anticipated unavailability in the coming months. What do you think Kevin should do?<br>
+			Choose your opinion and click Submit.<br><br>
+
+<ul>
+<li>Option 1<br>Kevin should not extend an offer to Samantha, as she will be taking maternity leave in the near future, and it would put productivity and deliverables at risk.</li><br>
+
+
+<li>Option 2<br>Kevin is not certain about what he should do. He sets the file aside and decides to reach out to his Talent Manager, Christopher Gutierrez, for advice.</li><br>
+
+ 
+<li>Option 3<br>Kevin decides to extend an offer to Samantha as he had identified her as the most qualified resource for the project. Her maternity leave should not influence his decision.</li>
+
+</ul>
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page5">
+            <text><![CDATA[Let's see what Kevin learns about Cognizant's EEO Policy Statement.<br><br><br>
+
+Cognizant's EEO policy statement makes it very clear that Cognizant and the Executive Leadership are committed to ensuring that applicants and associates are not discriminated against in any of our employment practices on the basis of age, sex, color, race, creed, national origin, religion, marital status, citizenship status, ancestry, sexual orientation, gender identity, affection preference, disability status, protected veteran status, membership, or activity in local human rights commission, status with regard to public assistance, or any other classification protected by applicable law.<br><br>
+
+Employment practices include, but are not limited to, recruiting, hiring, training, promotions, pay practices, benefits, disciplinary actions, and terminations.<br><br>
+
+Click the PDF icon to open and download Cognizant's EEO policy statement.
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	
+	<audio_trans>
+        <page_AT id="top1Page6">
+            <text><![CDATA[Kevin decides to read more about the policy and find out where it can be accessed.<br><br>
+
+The policy also states the organization's commitment to Affirmative Action; removing barriers from Cognizant's employment practices that impact individuals based on their gender, race, veteran status, or disability status.<br><br>
+ 
+Cognizant's EEO policy statement is updated annually and posted for applicants and associates on the external website, intranet, applicant system, and in our offices. The policy statement is also submitted to potential customers during the Request for Proposal or RFP process, and when requested by a client. Many Cognizant clients include an EEO clause in their contracts.<br><br>
+
+Click the button to learn the steps to access the EEO policy.<br><br>
+To access the EEO Policy Statement, please follow these steps:<br>
+<ol>
+<li>Log on to OneCognizant.</li>
+<li>Launch the About HR application from the AppStore.</li>
+<li>Select United States of America from the list of countries.</li>
+<li>Select Affirmative Action and EEO on the left navigation pane.</li>
+<li>Select EEO Policy.</li>
+</ol>
+
+
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page7">
+            <text><![CDATA[After reading through the EEO policy documents thoroughly, Kevin was clear and confident about his decision. He extended the offer to Samantha since she was the most qualified for the role.
+
+
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page8">
+            <text><![CDATA[Kevin now looks through the rest of his emails. Erin Marino, one of Kevin's direct reports, needs his advice.<br>
+Click the email icon to read Erin's email to Kevin.<br><br>
+
+Email from Marino, Erin at Cognizant to Nicholson, Kevin at Cognizant<br>
+Subject: Advice needed<br><br>
+
+Hi Kevin,<br><br>
+
+I am thrilled that we won that huge account, but could use your help.Juan Vice has been with our company for 14 years and is the most qualified team member to head the account. However, this is a long-term project and I am wondering if I should promote him as he may be retiring in the next few years. On the other hand, Ann Wong is almost as qualified as Juan in capabilities and is not eligible for retirement in the near future. I am concerned about promoting Juan. Can you please help me?<br><br>
+
+Thanks and Regards,<br>
+Erin
+
+
+
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page9">
+            <text><![CDATA[Kevin wonders if Juan's age should be a factor for Erin's decision. While Juan may be retiring in the next few years, he is also the most qualified to head the project. Help Kevin advise Erin on the issue.<br>
+Choose your opinion and click Submit.<br><br>
+
+<ul>
+<li>Option 1<br>Kevin advises Erin to promote Ann Wong as Juan Vice might not be available for the project for the long term. He thinks that nothing should impact a project in any way.</li><br>
+
+<li>Option 2<br>Kevin is not certain of the direction he should give to Erin. He decides to reach out to his Talent Manager, Christopher Gutierrez, for advice.</li><br>
+
+
+<li>Option 3<br>Kevin advises Erin to promote Juan Vice as he is eligible and the most qualified for the role. His age should not be a factor in the decision.</li>
+
+</ul>
+
+
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page10">
+            <text><![CDATA[Let's see what Kevin finds out about the antidiscrimination laws in the United States.<br><br>
+
+There are numerous antidiscrimination laws in the US that all employers must follow. People Leaders are required to be aware of, and operate within, the US employment laws, and understand the consequences for violating these laws.<br><br>
+
+A list of the US antidiscrimination laws is provided below.<br><br>
+
+Title VII of the Civil Rights Act of 1964<br>
+This law prohibits employment discrimination based on race, color, religion, sex, or national origin.<br><br>
+
+Equal Pay Act of 1963 or EPA<br>
+This Act protects men and women who perform substantially equal work in the same establishment, from sex-based wage discrimination.<br><br>
+
+Age Discrimination in Employment Act of 1967 or ADEA<br>
+This Act prohibits employment discrimination of individuals who are 40 years of age or older, against discrimination in the workplace.<br><br>
+
+Title I and Title V of the Americans with Disabilities Act of 1990, as amended ADA<br>
+These laws prohibit employment discrimination against qualified individuals with disabilities in the private sector, and in state and local governments.<br><br>
+
+Click the Continue button to read on.<br><br>
+Pregnancy Discrimination Act<br>
+This Act prohibits sex discrimination on the basis of pregnancy, childbirth, or a related medical condition.<br><br>
+
+Title II of the Genetic Information Nondiscrimination Act of 2008 or GINA<br>
+This law prohibits employment discrimination based on genetic information about an applicant, employee, or former employee.<br><br>
+
+The Vietnam Era Veterans' Readjustment Assistance Act or VEVRAA<br>
+This Act prohibits employment discrimination against US military veterans and sets regulatory requirement for federal contractors. <br><br>
+
+Civil Rights Act of 1991 <br>
+This Act among other things, provides monetary damages in cases of intentional employment discrimination.<br><br>
+
+Click the PDF icon to view the Acts in more detail.
+
+
+
+
+
+
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page11">
+            <text><![CDATA[After reviewing the antidiscrimination laws, Kevin learned about the potential consequences an organization could face for violating antidiscrimination laws in the United States.<br><br> 
+
+
+Potential penalties include the following requirements:<br> 
+<ul>
+<li>To provide Back Pay<br></li>
+<li>To hire applicants who were discriminated against</li>
+<li>To promote associates previously denied a promotion</li>
+<li>To rehire associates wrongfully terminated</li>
+<li>To provide front pay</li>
+<li>To provide reasonable accommodation, or other benefits that would make the individual "whole" (in the condition he or she would have been but for the discrimination).</li>
+</ul><br>
+
+Some additional consequences for the company may include the following requirements:<br>
+<ul>
+<li>To pay attorneys' fees</li>
+<li>To pay expert witness fees</li>
+<li>To pay court costs</li>
+</ul><br>
+
+In addition to the items above, a federal contractor who is found guilty of discrimination could be barred from doing business with the US Government, impacting their revenue stream. 
+
+
+
+
+
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page12">
+            <text><![CDATA[During Kevin's research, he learned about two US government agencies that enforce the laws. He made notes about each agency.<br><br>
+
+Click the post-it notes to read what Kevin has noted down.<br><br>
+The Equal Employment Opportunity Commission, often referred to by its acronym EEOC, is the US Federal Agency that enforces the antidiscrimination laws that Kevin just reviewed. The EEOC also investigates discrimination complaints that are filed with them by US workers. This includes complaints of discrimination, retaliation, and coercion on the basis of any protected classification (such as gender or race).<br><br>
+
+Here are some key facts about the EEOC:<br>
+<ul>
+<li>It is a government agency.</li>
+<li>It enforces antidiscrimination laws.</li>
+<li>It investigates discrimination complaints filed by US workers.</li>
+</ul><br>
+The Office of Federal Contract Compliance Programs, often referred to by its acronym OFCCP, is the US Federal Agency that enforces compliance with the regulations implemented for federal contractors. The OFCCP enforces the regulations through auditing of federal contractors and investigating complaints filed by US applicants and employees.<br><br>
+
+A federal contractor is any company, which sells goods or provides services to the Federal Government. Cognizant is a federal contractor and a large revenue stream comes from the work that is done through Federal Government contracts. Many of these clients are also government contractors.<br><br>
+
+Many government agencies share information on a regular basis. For example, the EEOC during an investigation may find that a government contractor is not complying with the regulations enforced by the OFCCP. The EEOC will continue the charge they are investigating and notify the OFCCP of the organization's non-compliance.<br><br>
+
+Here are some key facts about the OFCCP:<br>
+<ul>
+<li>It is a government agency.</li>
+<li>It enforces antidiscrimination laws for federal contractors.</li>
+<li>It audits federal contractors to ensure compliance and investigates discrimination complaints filed by US applicants and employees.</li> 
+</ul>
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page13">
+            <text><![CDATA[While conducting his research, Kevin finds public information about two of Cognizant's competitors.<br><br> 
+
+Kevin learns that two of Cognizant's competitors are currently facing litigation for allegations of discrimination towards employees and applicants, who are Caucasian and/or American Nationals. These cases could be certified as class action lawsuits. Many class action lawsuits, if won by the individuals making the claims, result in settlements for millions of dollars.<br><br>  
+
+In addition to the potential financial implications, you should be aware of the potential damage to a company's brand. The US media frequently reports news of discrimination in the US workplace. This type of news coverage can damage a company's reputation with their customers, employees, and job seekers.<br><br>  
+
+Click the buttons to learn more about violation of EEO laws and the potential damages.<br><br> 
+Violating US EEO Laws<br>
+Companies that face allegations of violating US employment laws can face substantial financial penalties, as well as damage to their reputation and corporate brand. Both Infosys and TATA Consulting Services or TCS are currently in litigation, concerning their employment practices.<br><br>
+Allegations Against Infosys & TCS<br>
+Some of the allegations raised against Infosys and TCS include:<br>
+<ul>
+
+<li>Infosys and TCS discriminated against applicants and employees based on their race (Caucasian and non-South Asians) and their National Origin (American Nationals).</li>
+<li>The law suits allege an intentional pattern and practice of discrimination in their employment decisions (hiring, promotions, compensation, and terminations).</li>
+<li>Approximately 95% of their workforces in the US are South Asian; however, South Asian representation in the US labor market is approximately 1 to 2%.</li>
+<li>Many of their worksites lacked diversity with all of the associates being South Asian.</li>
+</ul>
+Potential Damages<br>
+The plaintiffs are requesting that the cases be classified as class action lawsuits. They are also seeking injunctive relief, as well as compensatory and punitive damages. Both cases received Right To Sue letters from the EEOC. The cases could take years to settle, causing a drain on company resources and impacting profitability. 
+
+
+
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page14">
+            <text><![CDATA[After Kevin completes his research of the Cognizant EEO Policy and US antidiscrimination laws, he now knows how to guide Erin on the decision she needs to make regarding the role of project head for the new deal.<br>
+Click the email icon to read Kevin's reply to Erin's email.<br><br>
+Email from Nicholson, Kevin at Cognizant to Marino, Erin at Cognizant<br>
+Subject: Reply to Advice needed<br><br>
+
+Hi Erin,<br><br>
+
+I can understand your dilemma. You are wondering whether it'll be wise to choose someone younger, but slightly less qualified to head the account.<br><br>
+
+Cognizant's EEO Policy and the ADEA both prohibit discriminating against an applicant or associate because they are forty years or older. Juan's ability to retire in the near future, which is directly related to his age, should not factor into his eligibility and opportunity for advancement. If Juan is the most qualified you should offer him the role. If he is not interested in heading the account then you can offer it to the next most qualified individual, Ann.<br><br> 
+
+I hope this helps. If you have situations like this in the future, you can also reach out to our Talent Manager for further guidance.<br><br>
+
+Thanks,<br>
+Kevin
+
+
+
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page15">
+            <text><![CDATA[After Kevin wonders if discrimination is always intentional. He reads on to find out.<br><br>
+
+There are different types of discrimination that may occur in the workplace. As a leader, you should be aware of these potential issues, and should report to Talent Management if you think they may be occurring. It is important to be aware that not only can a company be sued for discrimination and harassment; supervisors can also be sued. Lack of knowledge and intent are not valid excuses for violating the law. If discriminatory or unlawful acts occur, the supervisor is legally liable whether or not the supervisor knew of the event or meant for the situation to occur.
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page16">
+            <text><![CDATA[Adverse Impact discrimination is unintentional, however Disparate Treatment is the deliberate act of treating people differently based on a protected characteristic such as race or gender. Both are unlawful based on the US employment laws that were reviewed earlier.<br><br> 
+
+Click each tab to learn more about Disparate Treatment and Adverse Impact Discrimination.<br><br>
+
+Disparate Treatment is treating an associate differently because of a protected characteristic such as pregnancy, race, or national origin. Let's walk through an example.
+Jane was terminated for missing three days of work in one quarter. She claims that male workers who have missed three days of work in a quarter were not terminated. It appears that males and females are being managed differently, and this could be a potential case of disparate treatment. It is key to follow the same process for all associates, apply Cognizant's policies in the same manner, and work with your Talent Manager on issues such as this, in order to ensure that all associates are being managed against the same set of standards.<br><br>
+Adverse Impact Discrimination is when an employment practice negatively impacts one group more significantly than another group. Let's walk through an example.
+The BU is hiring, and the role or project being filled does not require relocation. However, to be considered for employment, an individual must be able to relocate when the current project ends in three to five years. Requiring relocation for a future project or role, could knock women out of the hiring process at a much higher rate than men. This could result in adverse impact against women as a group.
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+		<audio_trans>
+        <page_AT id="top1Page17">
+            <text><![CDATA[After advising Erin and learning more about the types of discrimination, Kevin checks his meeting schedule. He leaves his office to oversee a Cognizant booth at a campus job fair. While on his way, he runs into a new associate, Michael Chan, who has joined his team this week. Michael takes the opportunity to raise a concern about his pay.<br><br> 
+
+Kevin: Hi Michael, I am really excited to have you on my team. <br><br>
+
+Click the Continue button to read on.<br><br>
+
+
+Michael: Hi Kevin. I was just speaking with Major Donnell Clegg and understand that I have more years of experience and certifications than he does. However, we are receiving the same salary.<br><br>
+
+Click the Continue button to read on.<br><br>
+
+
+Kevin: Yes, I'm aware that both you and Major Clegg joined my team in the same role. However, it would not be appropriate for me to discuss another associate's salary with you. There are many factors that are considered in determining an associate's compensation, but I will look into your concerns and get back to you. <br><br>
+
+Click the Continue button to read on.<br><br>
+
+
+Michael: Thank you. I appreciate it.
+
+
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page18">
+            <text><![CDATA[Michael claims that his experience and certifications should result in a better offer package comparatively. Do you think that Kevin should consider Michael's concern?<br>
+Choose your opinion and click Submit to help Kevin make the right decision.<br><br>
+<ul>
+<li>Option 1<br>Kevin considers Michael's concern and his perception that he is more qualified than Major Clegg. To resolve the issue, Kevin requests a higher offer package for Michael.</li><br>
+
+
+<li>Option 2<br>Kevin considers Michael's concern and his perception that he is more qualified than Major Clegg. He decides to investigate the process used to determine compensation offers, and what company policies or US laws impact the offer package.</li><br>
+
+<li>Option 3<br>Kevin firmly rejects Michael's concern because Major Clegg is a US military veteran and should get the same pay as any other employee. So, Michael should get the same salary package as the Major.</li><br>
+</ul>
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page19">
+            <text><![CDATA[Kevin decides to look into Michael's concern. Kevin starts by researching the Equal Pay Act and refers back to Title VII.<br><br>
+
+Click each tab to learn more about the Equal Pay Act and Title VII.<br><br>
+
+Through the Equal Pay Act or EPA the US government has taken a more aggressive stance on investigating potential pay discrimination. Recent regulatory changes based on the EPA have been designed to provide federal agencies with greater visibility into federal contractor pay practices, including a requirement to submit aggregated compensation data to the EEOC annually. <br><br>
+
+The EPA stipulates that no employer can discriminate between employees on the basis of sex (gender) by paying wages to employees, at a rate less than the rate at which they pay wages to employees of the opposite sex, for equal work on the jobs that require equal skill, effort, and responsibility, and are performed under similar working conditions.<br><br>
+
+Title VII of the Civil Rights Act of 1964 (Title VII) is significantly broader in scope than the EPA, making it unlawful to discriminate against employees and job applicants in any of our employment practices, which includes compensation based on sex, race, color, religion, or national origin. The Government is paying close attention to pay practices. It will now have access to employers aggregate compensation data on an annual basis. Cognizant ensures that its compensation decisions are driven by factors that are objective, non-discriminatory, and defensible.
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page20">
+            <text><![CDATA[Compensation should NOT be driven by subjective, discriminatory factors. Research shows that in the US, women and minorities are typically paid less for the same work. We do not want to perpetuate pay discrimination that originated at another employer by basing starting pay on what an individual was previously earning. Starting pay should be determined by the role an individual is hired for and by objective and valid compensation drivers.<br><br>
+
+Compensation changes must have a strong business case driven by objective, quantifiable standards, and must be well documented as they may need to be defended during a government investigation or audit.<br>
+Click the buttons to learn more about compensation drivers.<br><br>
+Some valid compensation drivers are:<br>
+<ul>
+
+<li>Experience</li>
+<li>Education</li>
+<li>Certification</li>
+<li>Company tenure </li>
+<li>Time in grade level</li>
+<li>Performance </li>
+<li>Skill Set</li>
+<li>Objective, quantifiable standards</li><br>
+</ul>
+Some invalid compensation drivers are:<br>
+<ul>
+<li>Race</li>
+<li>Gender</li>
+<li>National Origin</li>
+<li>Age</li>
+<li>Any other legally protected group</li>
+<li>Favoritism </li>
+<li>Subjective, immeasurable factors</li>
+</ul>
+
+
+
+
+
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page21">
+            <text><![CDATA[Since Major Clegg is a Veteran of the US military, Kevin researched the VEVRAA. Kevin wants to ensure that he would not be in violation of VEVRAA if he pays Michael more than Major Clegg, so he reviews it again.<br><br>  
+
+
+The VEVRAA prohibits discrimination against US military veterans in all employment practices, including compensation and sets regulatory requirements for federal contractors. Our obligations under VEVRAA as a federal contractor will be discussed in the next module. 
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page22">
+            <text><![CDATA[Kevin determines that Michael's base salary should be adjusted after researching the applicable laws, reviewing the education and certifications of both associates, and speaking with his TM to understand other relevant factors such as the compensation levels within the peer group and the established pay ranges.<br><br>
+
+Kevin also learned from his TM that paying Michael differently from Major Clegg would NOT violate the EPA or VEVRAA since the pay differences are NOT being driven by discriminatory factors such as gender (EPA) or military status (VEVRAA). 
+<br><br>A strong business case is needed anytime an associate's pay is being modified; this includes modifications to base pay, bonus pay, and revision pay. If discrimination is found in its pay practices, Cognizant could be required to provide back pay, front pay, and sign a conciliation agreement with the US Government. Loss of government work and damage to our corporate brand are also potential consequences.
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top1Page23">
+            <text><![CDATA[Kevin has had a challenging day at work and has been tested on his decision-making skills. Through the situations presented, Kevin has learned that he is responsible for ensuring that our associates are treated fairly and US employment laws are followed. Let's do a high level review of what Kevin learned today:<br>
+<ol>
+<li>Cognizant's EEO policy statement is very clear that Cognizant and the Executive Leadership are committed to ensuring that applicants and associates are not discriminated against in any of its employment practices based on their age, sex, color, race, creed, national origin, religion, marital status, citizenship status, ancestry, sexual orientation, gender identity, affection preference, disability status, protected veteran status, membership, or activity in local human rights commission, status with regard to public assistance, or any other classification protected by applicable law.</li>
+
+<li>There are numerous antidiscrimination laws in the US that protect workers. Leaders need to be familiar with these laws and ensure compliance. Some potential remedies imposed by the Federal Government for discrimination in the workplace include payment for back pay or front pay, requirement to hire, promote, reinstate, provide reasonable accommodation, or other actions that would make an individual "whole".<br><br>Click the Continue button to read on.</li><br>
+
+<li>The Equal Employment Opportunity Commission, often referred to by its acronym EEOC, is the US Federal Agency that enforces the civil rights and antidiscrimination laws that were reviewed.</li>
+
+<li>Adverse impact is unintentional, whereas a disparate treatment is the deliberate act of treating people differently based on a protected characteristic such as race or gender. Both are unlawful based on the laws that we reviewed earlier in the module.</li>
+
+<li>Through the Equal Pay Act or EPA, the Federal Government has taken a more aggressive stance on investigating potential pay discrimination. Compensation decisions should be based on objective and quantifiable standards.</li>
+</ol>
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top6Page1">
+            <text><![CDATA[Now that Kevin has a better idea about Equal Employment Opportunity, it is time to test his knowledge.<br><br>
+
+Help Kevin answer the assessment questions, starting from the next screen. You will need to score 80% to pass the assessment.<br><br>
+
+Click Start to begin.
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top6Page2">
+            <text><![CDATA[How often is the Cognizant EEO Policy reviewed and signed by our CEO?<br><br>
+
+Choose the correct option and click Submit.
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top6Page3">
+            <text><![CDATA[State whether the sentence below is true or false.<br> 
+Cognizant does business with the United States government, and as a result, is a federal contractor.<br><br>
+Choose the correct option and click Submit.
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top6Page4">
+            <text><![CDATA[Title VII of the Civil Rights Act of 1964 was passed to protect numerous groups from discrimination in the workplace. Select the groups below that are protected by the act.
+<br><br>
+Choose the correct options and click Submit.
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top6Page5">
+            <text><![CDATA[An associate is pregnant and her doctor has advised her not to travel for the remainder of the pregnancy. What action should be taken?<br><br>
+
+Choose the correct option and click Submit.
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top6Page6">
+            <text><![CDATA[What are the potential outcomes of discrimination?
+<br><br>
+Choose the correct options and click Submit.
+
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top6Page7">
+            <text><![CDATA[Which factors are acceptable compensation drivers?
+<br><br>
+
+
+
+
+
+Choose the correct options and click Submit.
+
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top6Page8">
+            <text><![CDATA[Which US law prohibits employment discrimination based on race, color, religion, sex, or national origin?
+<br><br>
+
+Choose the correct option and click Submit.
+
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top6Page9">
+            <text><![CDATA[As a People Leader, who should you inform, if you become aware of any case of discrimination in the workplace?
+<br><br>
+
+Choose the correct option and click Submit.
+
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top6Page10">
+            <text><![CDATA[Which one of these is defined as an unintentional act of discrimination?
+<br><br>
+
+Choose the correct option and click Submit.
+
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top6Page11">
+            <text><![CDATA[State whether the sentence below is true or false.<br>
+Compensation changes must have a strong business case driven by objective and quantifiable standards, and must be well documented because they may need to be defended during an audit by the US government.
+<br><br>
+
+Choose the correct option and click Submit.
+
+
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+	<audio_trans>
+        <page_AT id="top6Page12">
+            <text><![CDATA[Congratulations! Kevin and you now have a good understanding of Equal Employment Opportunity. <br>
+Click the button to view the Certificate of Completion.
+
+]]></text>
+<text><![CDATA[It looks like Kevin is still a little unsure about the Company's EEO policy and the antidiscrimination laws. <br>
+
+Click Retake Assessment to retake the assessment.<br>
+
+Click Revisit Course to revisit the course. 
+
+
+]]></text>
+            
+        </page_AT>		
+    </audio_trans>
+		
+</MenuDriven>
