@@ -1,0 +1,435 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />    
+        <title>Compliance Training: Equal Employment Opportunity</title>
+        <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
+    </head>
+    <body onload="loadImages()">
+        <script type="text/template" id="module_template">
+            <div class="modules">
+            <div class="moduleHeader">
+            <div class="collapse floatLeft"></div>
+            <div class="moduleName floatLeft"><%= moduleName %></div>				
+            <div class="clear"></div>
+            </div>
+            <div class="sections">
+            </div>
+            </div>
+        </script>
+
+        <script type="text/template" id="tab_template">
+            <div class="tab"><%= tab %></div>
+        </script>
+
+        <script type="text/template" id="page_template">
+            <div class="page"><%= page %></div>
+        </script>
+
+        <div class="loadingVideo">
+            Loading Course....
+        </div>
+        <!--<div class="welcome" style="display:none">
+                <div class="closeVideo floatRight"></div>
+                <div class="clear"></div> 
+                <div class="continueButton"></div>			
+                <div class="clear"></div> 
+        </div> -->
+        <div class="videoPlayer" style="display:none;">
+
+            <audio id="splashAudio4">
+                <source src="audio/Splash/splash_slide 3_audio1.mp3" type="audio/mp3">
+            </audio>
+            <audio id="splashAudio5">
+                <source src="audio/Splash/splash_slide 3_audio2.mp3" type="audio/mp3">
+            </audio>
+            <audio id="splashAudio6">
+                <source src="audio/Splash/splash_slide 3_audio3.mp3" type="audio/mp3">
+            </audio>
+            <audio id="splashAudio7">
+                <source src="audio/Splash/splash_slide 3_audio4.mp3" type="audio/mp3">
+            </audio>
+            <!-- <video controls id="firstVideo">
+                <source src="video/intro.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>  -->
+            <div class="parentClass">
+                <div class="instruction1 instruction" style="">
+                    <div class="iHeader">
+                        <input type="image" id="closeVideo"  tabindex="1" alt="close" class="closeVideo floatRight focus" src="img/common/close_n.jpg"> 
+                        <div class="clear"></div> 
+                    </div>
+                    <div class="content">
+                        
+                        <input type="image" tabindex="2" alt="On a table top with newspapers, the following text is displayed. Date: December 2012 Organization: An agricultural farm Settlement: $500,000 Violation: Several American seasonal workers were fired based on their Nationality." class="screenImg focus floatLeft" src="img/SCT/splash/splash_ost_1.png">
+                        <!--<div class="skipButton floatRight" id="skipbtn1"  tabindex="1"></div>-->
+                        <div class="clear"></div>
+                    </div>			
+                    <input type="image" id="skipbtn1" alt="continue"  tabindex="3" class="skipButton floatRight focus" src="img/SCT/splash/skipintro_btn_N.png"> 
+                    <!--<audio id="splashAudio1">
+                        <source id="mp3Src" src="" type="audio/mp3">
+                        <source id="oggSrc" src="" type="audio/ogg">
+                    </audio>-->
+                </div>	
+                <div class="instruction2 instruction" style="display:none;">
+                    <div class="iHeader">
+                        <input type="image"  tabindex="1" id="closeVideo" alt="close" class="closeVideo floatRight focus" src="img/common/close_n.jpg"> 
+                        <div class="clear"></div> 
+                    </div>
+                    <div class="content">
+                        
+                        <input type="image" tabindex="2" alt="Date: July 2010Organization: NovartisSettlement: $175 million Violation: 5 women were pressured to take shorter maternity leaves than they were entitled to." class="screenImg focus floatLeft" src="img/SCT/splash/splash_ost_2.png">
+                        <!--<div class="skipButton floatRight" id="skipbtn1"  tabindex="1"></div>-->
+                        <div class="clear"></div>
+                    </div>			
+                    <input type="image" id="skipbtn2" alt="continue" tabindex="3"class="skipButton floatRight focus" src="img/SCT/splash/skipintro_btn_N.png"> 
+                </div>	
+                <div class="instruction3 instruction" style="display:none;">
+                    <div class="iHeader">
+                        <input type="image" id="closeVideo"  tabindex="1" alt="close" class="closeVideo floatRight focus" src="img/common/close_n.jpg"> 
+                        <div class="clear"></div> 
+                    </div>
+                    <div class="content">
+                        
+                        <input type="image" tabindex="2" alt="Date: November 2000Organization: Coca-ColaSettlement: $192.5 million Violation: A group of African American salaried employees were discriminated against in pay and promotion opportunities based on their Race."class="screenImg focus floatLeft" src="img/SCT/splash/splash_ost_3.png">
+                        <!--<div class="skipButton floatRight" id="skipbtn1"  tabindex="1"></div>-->
+                        <div class="clear"></div>
+                    </div>			
+                    <input type="image" id="skipbtn3" tabindex="3" alt="continue" class="skipButton floatRight focus" src="img/SCT/splash/skipintro_btn_N.png"> 
+                </div>	
+                <div class="instruction4 instruction" style="display:none;">
+                    <div class="iHeader">
+                        <input type="image"  tabindex="1" id="closeVideo" alt="close" class="closeVideo floatRight focus" src="img/common/close_n.jpg"> 
+                        <div class="clear"></div> 
+                    </div>
+                    <div class="content">
+                        
+                        <input type="image" tabindex="2" alt="In the last few years, companies have paid millions of dollars to settle discrimination lawsuits filed by the Equal Employment Opportunity Commission."class="screenImg focus floatLeft" src="img/SCT/splash/splash_ost_4.png">
+                        <!--<div class="skipButton floatRight" id="skipbtn1"  tabindex="1"></div>-->
+                        <div class="clear"></div>
+                    </div>			
+                    <input type="image" id="skipbtn4" tabindex="3" alt="continue" class="skipButton floatRight focus" src="img/SCT/splash/skipintro_btn_N.png"> 
+                </div>	
+                <div class="instruction5 instruction" style="display:none;">
+                    <div class="iHeader">
+                        <input type="image" tabindex="1" id="closeVideo" alt="close" class="closeVideo floatRight focus" src="img/common/close_n.jpg"> 
+                        <div class="clear"></div> 
+                    </div>
+                    <div class="content">
+                      <input type="image" tabindex="2" alt="It is the responsibility of the People Leaders in the organization to be aware of employment laws and company policies, and drive compliance."class="screenImg focus floatLeft" src="img/SCT/splash/splash_ost_5.png">
+                        
+                        <!--<div class="skipButton floatRight" id="skipbtn1"  tabindex="1"></div>-->
+                        <div class="clear"></div>
+                    </div>			
+                    <input type="image" id="skipbtn5" tabindex="3"  alt="continue" class="skipButton floatRight focus" src="img/SCT/splash/skipintro_btn_N.png"> 
+                </div>	
+                <div class="instruction6 instruction" style="display:none;">
+                    <div class="iHeader">
+                        <input type="image" id="closeVideo" tabindex="1" alt="close" class="closeVideo floatRight focus" src="img/common/close_n.jpg"> 
+                        <div class="clear"></div> 
+                    </div>
+                    <div class="content">
+                        
+                        <input type="image" tabindex="2" alt="Let’s look at Kevin’s story and how he handles such cases within his role as a People Leader at Cognizant. "class="screenImg focus floatLeft" src="img/SCT/splash/splash_ost_6.png">
+                        <!--<div class="skipButton floatRight" id="skipbtn1"  tabindex="1"></div>-->
+                        <div class="clear"></div>
+                    </div>			
+                    <input type="image" id="skipbtn6" alt="continue" tabindex="3"  class="skipButton floatRight focus" src="img/SCT/splash/skipintro_btn_N.png"> 
+                </div>	
+
+
+
+                <div class="clear"></div>
+            </div> 
+            <div class="instruction7 instruction" style="display:none;">
+                <div class="iHeader">
+                    <input type="image" id="closeVideo" alt="close" tabindex="1"  class="closeVideo floatRight focus" src="img/common/close_n.jpg"> 
+                    <div class="clear"></div> 
+                </div>
+                <div class="content">
+                 
+                        <input type="image" tabindex="2" alt="Welcome to the course Compliance Training: Equal Employment Opportunity Click Enter to begin." class="screenImg focus floatLeft" src="img/SCT/splash/splash_ost_7.png">
+                        
+
+                   
+                    <input type="image" id="ctnbtn" alt="enter" class="continueButton focus" src="img/SCT/splash/enter_btn_N.png"> 
+
+                    <!--<div class="skipButton floatRight" id="skipbtn1"  tabindex="1"></div>-->
+                    <div class="clear"></div>
+                </div>			
+
+            </div>	
+            <!--<div class="instruction8" style="display:none">
+                <div class="iHeader">
+                    <div class="instructionHeader1 floatLeft"></div>						
+                    <div class="welcomeScreen floatLeft"></div>					
+                    <div class="closeVideo floatLeft"></div>			
+                    <div class="clear"></div> 
+                </div>
+                <div class="content">
+                    <div class="screenText"></div>
+                   <div class="continueButton" id="ctnbtn" tabindex="1" ></div>
+                    <input type="image" id="ctnbtn" alt="enter" class="continueButton focus" src="img/SCT/splash/enter_btn_N.png"> 
+                    <div class="clear"></div>
+                </div>
+
+            </div>-->
+        </div>
+        <div class="refPage" style="display:none">			
+
+            <div class="thankYou"></div>
+
+            <div class="clickClose" style="display:none">
+                Click the <b>Close</b> to reload the course.
+            </div>
+
+        </div>
+        <div class="mindMap" style="display:none">	
+            <div>
+
+
+            </div>
+            <div class="modules floatLeft">
+                <div class="courseHeader">
+                    <div class="floatLeft courseH"></div>
+                    <div class="courseName floatLeft"><b>Compliance Training: Equal Employment Opportunity</b></div>                              
+                    <input type="image" tabindex="1" alt="close" class="closeButton floatLeft focus" id="closeMindMap" src="img/common/close_n.jpg" >
+                    <div class="clear"></div>
+                    <div class="pageHeader floatLeft">
+
+                    </div>
+
+                    <div class="clear"></div>                            
+                </div>
+                <header class="menuText1 focus" tabindex="2">MENU</header> 
+                <header class="menuText2 focus" tabindex="3">Click a topic to access it.</header> 
+                <!--<input id="closeMindMap" class="closeButton floatRight focus" type="image" src="img/common/close_n.jpg">-->
+
+                <div class="firstRow">
+                    <input type="image" id="mod1" alt="Meet Kevin" class="module module1 focus" src="img/menu/menu_topic_1_d.png">
+                    <input type="image" id="mod2" alt="The Samantha Bruce Episode" class="module module2 focus" src="img/menu/menu_topic_2_d.png">
+                    <input type="image" id="mod3" alt="Erin Marino Episode" class="module module3 focus" src="img/menu/menu_topic_3_d.png">
+                    <div class="clear"></div>  
+                </div>
+                <div class="secondRow">
+                    <input type="image" id="mod4" alt="The Michael Clan Episode" class="module module4 focus" src="img/menu/menu_topic_4_d.png">
+                    <input type="image" id="mod5" alt="What Kevin Learnt" class="module module5 focus" src="img/menu/menu_topic_5_d.png">
+                    <input type="image" id="mod6" alt="Assessment" class="module module6 focus" src="img/menu/menu_topic_6_d.png">
+                    <div class="clear"></div>  
+                </div>
+
+            </div>
+            <div class="clear"></div> 
+
+        </div>
+
+        <div class="mainBoard" style="display:none" >
+            <div class="topBoard">
+                <div class="leftPanel" style="display:none;">
+                    <div class="modulesTag"></div>
+                </div>
+
+                <div class="rightPanel">
+                    <div class="courseHeader">
+                        <div class="floatLeft courseH"></div>
+                        <div class="courseName floatLeft"><b>Compliance Training: Equal Employment Opportunity</b></div>                              
+                        <input type="image" tabindex="57" alt="close" class="closeButton floatLeft focus" id="close" src="img/common/close_n.jpg" >
+                        <div class="clear"></div>
+                        <div class="pageHeader floatLeft">
+
+                        </div>
+
+                        <div class="clear"></div>                            
+                    </div>
+
+                    <div class="pageNameHolderParent">
+                        <div class="pageNameHolder">
+                            <div class="pageNameContainer floatLeft">
+                                <header class="pageName focus" id="pgName" tabindex="1"></header>
+                                <!-- </div class="pageName"></div> -->
+                            </div>
+                            <!--<div class="pageNameImage floatLeft">
+                            </div>-->
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                    <!--<div class="leftBorder floatLeft">
+                        <div class="globalBtnsPrev">
+                            <div id="prev_btn" class="floatLeft"></div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>-->
+                    <div class="pageLoader floatLeft">Loading Page...</div>
+                    <div class="pageContent floatLeft"></div>
+                    <!--<div class="rightBorder floatLeft">
+                        <div class="globalBtnsNext">
+                            <div id="nxt_btn" class="floatRight"></div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>-->
+                    <div class="clear"></div>  
+                    <div class="courseFooter">
+                        <div class="globalBtns">
+                            <input type="image" tabindex="50" id="help_btn" alt="help" class="floatLeft focus" src="img/common/help_n.jpg"> 
+                            <input type="image"  tabindex="51" id="menu_btn" alt="menu" class="floatLeft focus" src="img/common/menu_n.jpg"> 
+                            <input type="image"  tabindex="52" id="at_btn" alt="audio transcript" class="floatLeft focus" src="img/common/at_n.jpg"> 
+                            <input type="image"  tabindex="53" id="mic_btn" alt="audio on/off" class="floatLeft focus" src="img/common/audio_on_n.jpg"> 
+                            <div id="mic_btn_tab" class=" floatLeft" style="display:none;"></div>
+                            <input type="image"  tabindex="54" id="audio_btn" alt="play/pause" class="floatLeft focus" src="img/common/play_n.jpg"> 
+                            <div id="audio_btn_tab" class="floatLeft" style="display:none;"></div>
+                            <input type="image"  tabindex="55" id="prev_btn" alt="previous" class="floatLeft focus" src="img/common/back_n.jpg"> 
+                            <div id="nav_txt" class="floatLeft"></div>
+                            <input type="image"  tabindex="56" id="nxt_btn" alt="next" class="floatLeft focus" src="img/common/next_n.jpg"> 
+                            <div class="clear"></div>
+                            <!--<div id="help_btn" class="floatLeft" ></div>	
+                            <div id="menu_btn" class="floatLeft" ></div>
+                            <div id="at_btn" class="floatLeft" ></div>
+                            <div id="mic_btn" class="mic_btn_on floatLeft" ></div>	
+                            <div id="mic_btn_tab" class=" floatLeft" style="display:none;"></div>
+                            <div id="audio_btn" class="floatLeft" ></div>
+                            <div id="audio_btn_tab" class="floatLeft" style="display:none;"></div>
+                            <div id="prev_btn" class="floatLeft"   ></div>
+                            <div id="nav_txt" class="floatLeft"></div>
+                            <div id="nxt_btn" class="floatLeft"  ></div>
+                            <div class="clear"></div>-->
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                    <!-- <div class="bottomBoard">
+                                                 <div class="menuOptions floatLeft">
+                                                     <div id="menu_btn" class="floatLeft"></div>
+                                                     <div id="help_btn" class="floatLeft"></div>	
+                                                     <div id="at_btn" class="floatLeft"></div>
+                                                     <div id="audio_btn" class="floatLeft"></div>
+                                                     <div id="mic_btn" class="mic_btn_on floatLeft"></div>
+                                                     <div class="clear"></div>
+                                                 </div>
+                                                 <div class="bottomBoard_right floatLeft">
+                                                     <div id="prev_btn"></div>
+                                                     <div id="nav_txt"></div>
+                                                     <div id="nxt_btn"></div>
+                                                     <div class="clear"></div>
+                                                 </div>	
+                                                 <div class="clear"></div>
+                                             </div> -->
+                </div>
+            </div>
+            <audio id="myAudio">
+                <source id="mp3Src" src="audio/Record_0005.mp3" type="audio/mp3">
+                <source id="oggSrc" src="" type="audio/ogg">
+            </audio>
+
+            <div class="at_holder" id="at_holderlayout">
+                <div class="closeAt floatRight"></div>
+                <div class="clear"></div>
+                <div id="at_holder"></div>
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+
+        </div>
+        <div class="dummyImageDiv" style="display:none"></div>
+        <input type="image" class="helpPage" style="display:none"  tabindex="1" src= "img/help_page.png"alt="This is an image of the Help page, describing the function of each element of the course interface.">
+            <input type="image" class="floatLeft focus closeHelp" tabindex="2"   style="display:none" id="helpClose" alt="Help Close" src="img/help_close_btn_n.png">
+            <!--<div class="floatLeft closeHelp"></div>-->
+            <div class="clear"></div>
+        </div>
+
+        <script src="js/jquery.js"></script>
+        <script src="js/jquery-ui.js"></script>
+        <script src="js/jquery-ui-1.10.4.custom.js"></script>
+        <script src="js/jquery.ui.touch-punch.min.js"></script>		
+        <script src="js/underscore.js"></script>
+        <script src="js/backbone.js"></script>
+        <script src="model/Module.js"></script>
+        <script src="model/Section.js"></script>
+        <script src="model/ElementData.js"></script>
+        <script src="model/Counter.js"></script>
+        <script src="collection/Sections.js"></script>
+        <script src="collection/Modules.js"></script>
+        <script src="collection/ElementDatas.js"></script>
+        <script src="view/ModuleView.js"></script>
+        <script src="view/TabView.js"></script>
+        <script src="view/PageView.js"></script>
+        <script src="js/AudioController/AudioController.js"></script>
+        <script src="controllers/MyControl.js"></script>	
+        <script src="js/script.js"></script>
+        <script src="js/navigation/Navigator.js"></script>
+        <script src="js/LMSDataStorage/LMSDataStorage.js"></script>
+        <script src="js/container/container.js"></script>
+
+        <script>
+        var myModules = new Modules();
+        var myElementDatas = new ElementDatas();
+        var myCounter = new Counter();
+        var currentPage = 0;
+        var totalPages = 0;
+        var pageCounter = 0;
+        var dummyPageIdArray = [];
+        var dummyPageStatusArray = [];
+        var pageIdArrayLMS = [];
+        var pageStatusArrayLMS = [];
+        var currentPageCounterLMS = "";
+        //myCounter.set('moduleCounter',initCounter);
+        //myCounter.set('sectionCounter','1');
+        //myCounter.set('pageCounter','1');
+        var myNavigator = new MyNavigator();
+        var currentPageStatus = 0;
+        var myControl = new MyControl();
+        myControl.myLMSDataHandler.initialGetDataLMS();
+
+        var checklistRecordLMS = "";
+        var cykAnswer = [];
+        var cykCorrectAnswer = [4, 2, 3];
+        var score = 0;
+        var muteAudioState = false; //// Added 13/01/2016
+        //////////////////////////
+        var currentAudio = "";
+        var currentPage;
+        var myAudio1_m2p17;
+        var myAudio2_m2p17;
+        var myAudio1_m2p18;
+        var myAudio2_m2p18;
+        var myAudio1_m2p06;
+        var myAudio2_m2p06;
+        ////
+        var myAudio1_m2p15;
+        var myAudio2_m2p15;
+        var myAudio1_m2p16;
+        var myAudio2_m2p16;
+        var myAudio1_m2p21;
+        var myAudio2_m2p21;
+        var myAudio3_m2p21;
+        var myAudio1_m2p22;
+        var myAudio2_m2p22;
+        ////
+        var myAudio1_m3p12;
+        var myAudio2_m3p12;
+        var myAudio3_m3p12;
+        var myAudio4_m3p12;
+        var myAudio5_m3p12;
+        ////
+        var myAudio1_m3p17;
+        var myAudio2_m3p17;
+        var myAudio3_m3p17;
+        var myAudio4_m3p17;
+        var myAudio5_m3p17;
+        var myAudio6_m3p17;
+        ////
+        var myAudio1_m3p23;
+        var myAudio2_m3p23;
+        var myAudio3_m3p23;
+        var myAudio4_m3p23;
+        var myAudio5_m3p23;
+        var myAudio6_m3p23;
+        ////
+        var audioFlag;
+        var blink;
+        ////////////////////////////////
+        </script>
+        <script src="js/runtime.js" type="text/javascript"></script>
+        <script src="js/jqXMLUtils.js"></script>
+    </body>
+</html>
